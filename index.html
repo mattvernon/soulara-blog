@@ -21,3 +21,21 @@ layout: default
     </nav>
   </div>
 </section>
+
+<section class="articles">
+  <div class="wrapper">
+
+    {% for posts in site.posts reversed %}
+
+      <a href="{{ posts.url | remove: ".html" }}">
+        <div>
+          <img src="{{ posts.image }}">
+          <h4>{{ posts.title }}</h4>
+        </div>
+      </a>
+
+    {% endfor %}
+
+  </div>
+
+</section>
