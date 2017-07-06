@@ -1,7 +1,7 @@
 ---
 title: What is a pre workout supplement and when should I take it?
 date: 2017-07-06 08:50:00 Z
-main_image: "/uploads/what-is-a-pre-workout-supplement-2_1024x612_5297ac65-0652-40f7-94bb-259079b7dede.jpg"
+Main Image: "/uploads/what-is-a-pre-workout-supplement-2_1024x612_5297ac65-0652-40f7-94bb-259079b7dede.jpg"
 ---
 
 Raise your hand if you’ve read the recent New York Times article about Monsanto’s “legislative gift.” If not, chances are you’ve heard the following words buzzed about : “PCBs,” “pesticides,” “organic.” Right? For some, these words may be isolated terms with their own individual baggage, but when tied to Monsanto the dots connect quickly. We’re going to spell out the importance of these words, how they’re connected and what it means for your physical health. And yes, it will all boil down to reasons why you should grow, buy and eat organic. (Would you expect any less from us?)
