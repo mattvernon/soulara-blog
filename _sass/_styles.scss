@@ -692,23 +692,43 @@ MY STYLES
 
 /* Articles === */
 
-.wrapper {
+.flex-wrapper {
   max-width: 1180px;
   margin: 0 auto;
   margin-bottom: 400px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .small-article {
   position: relative;
+  text-decoration: none;
+  width: 31%;
+
+  margin-bottom: 140px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  transition: 0.2s;
+}
+
+.small-article:hover {
+  transform: scale(1.05) translateY(-10px);
 }
 
 .small-article-img {
-  max-width: 380px;
+  width: 100%;
   z-index: 0;
+  box-shadow: 0 20px 40px 0 rgba(0,0,0,0.14);
 }
 
 .small-article-details {
-  max-width: 300px;
+  width: 85%;
   background: white;
   padding: 35px;
   box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
@@ -716,8 +736,15 @@ MY STYLES
   z-index: 5;
 
   position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .small-article-title {
   margin: 0;
+  color: #000000;
+  font-family: 'Caslon 224 Medium';
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-align: center;
 }
