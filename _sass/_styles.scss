@@ -613,6 +613,8 @@ MY STYLES
 ==============================================================================*/
 
 
+/* Ferns === */
+
 .fern-left,
 .fern-right {
   width: 25%;
@@ -629,6 +631,8 @@ MY STYLES
   top: 140px;
   right: 0px;
 }
+
+/* Hero Section === */
 
 .hero {
   margin-top: 80px;
@@ -684,4 +688,36 @@ MY STYLES
 .category-nav nav a:hover {
   border-bottom: 3px solid black;
   color: black;
+}
+
+/* Articles === */
+
+.wrapper {
+  max-width: 1180px;
+  margin: 0 auto;
+  margin-bottom: 400px;
+}
+
+.small-article {
+  position: relative;
+}
+
+.small-article-img {
+  max-width: 380px;
+  z-index: 0;
+}
+
+.small-article-details {
+  max-width: 300px;
+  background: white;
+  padding: 35px;
+  box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
+  margin-top: -40px;
+  z-index: 5;
+
+  position: absolute;
+}
+
+.small-article-title {
+  margin: 0;
 }
