@@ -1,6 +1,8 @@
 ---
 title: What is a pre workout supplement and when should I take it?
 date: 2017-07-06 08:50:00 Z
+categories:
+- Fitness
 Main Image: "/uploads/what-is-a-pre-workout-supplement-2_1024x612_5297ac65-0652-40f7-94bb-259079b7dede.jpg"
 ---
 
