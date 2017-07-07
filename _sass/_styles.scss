@@ -605,6 +605,9 @@ footer .inner .links .site-links {
   margin-left: -10%;
 }
 
+.main-nav {
+  border-bottom: 1px solid #eee;
+}
 
 /* =============================================================================
 
@@ -747,4 +750,112 @@ MY STYLES
   font-weight: 400;
   font-size: 1.2rem;
   text-align: center;
+}
+
+
+
+/* Article Page === */
+
+.post-title,
+.post-meta,
+.post-header img {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+
+.post-header {
+  padding: 0 30px;
+}
+
+.post-title {
+  font-family: 'Caslon 224 Medium';
+  margin-top: 160px;
+  font-weight: 400;
+  text-align: center;
+  max-width: 940px;
+}
+
+.post-meta {
+  font-family: 'Brandon Text Regular';
+  color: #B5B5B5;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.post-header img {
+  width: 100%;
+  max-width: 980px;
+  margin-bottom: 140px;
+}
+
+.post-content {
+  max-width: 810px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+article p {
+  font-family: 'Brandon Text Regular';
+  font-size: 18px;
+  line-height: 37px;
+  color: #4C4C4C;
+  margin-bottom: 80px;
+}
+
+article ul p {
+  margin-bottom: 0px;
+}
+
+article p img {
+  width: 100%;
+}
+
+article p h1 {
+  font-size: 40px;
+}
+
+article p h2 {
+  font-size: 24px;
+}
+
+article p h3 {
+  font-size: 20px;
+}
+
+blockquote {
+  border-left: 1px solid #eee;
+  padding-left: 70px;
+  margin: 100px 0px;
+}
+
+blockquote p {
+  font-family: 'Caslon 224 Medium';
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.post-footer {
+  margin: 40px 0 120px 0;
+}
+
+.hollow-button {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  font-size: 12px;
+  border: 1px solid black;
+  padding: 20px 60px;
+
+  transition: 0.2s;
+}
+
+.hollow-button:hover {
+  background-color: black;
+  color: white;
 }
