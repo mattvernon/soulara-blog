@@ -698,11 +698,19 @@ MY STYLES
 .flex-wrapper {
   max-width: 1180px;
   margin: 0 auto;
-  margin-bottom: 400px;
+  // margin-bottom: 400px;
 
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.wrapper {
+  max-width: 1180px;
+  margin: 0 auto;
 
   padding-left: 20px;
   padding-right: 20px;
@@ -716,6 +724,7 @@ MY STYLES
   margin-bottom: 140px;
   margin-left: 5px;
   margin-right: 5px;
+  margin-top: 30px;
 
   transition: 0.2s;
 }
@@ -734,6 +743,7 @@ MY STYLES
   width: 85%;
   background: white;
   padding: 35px;
+  padding-top: 20px;
   box-shadow: 0 20px 40px 0 rgba(0,0,0,0.16);
   margin-top: -40px;
   z-index: 5;
@@ -741,6 +751,16 @@ MY STYLES
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  text-align: center;
+}
+
+.small-article-details small {
+  font-size: 12px;
+  color: #B5B5B5;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 15px;
 }
 
 .small-article-title {
@@ -770,6 +790,8 @@ MY STYLES
 
 .post-title {
   font-family: 'Caslon 224 Medium';
+  font-size: 64px;
+  letter-spacing: -2.5px;
   margin-top: 160px;
   font-weight: 400;
   text-align: center;
@@ -836,6 +858,8 @@ blockquote p {
   font-family: 'Caslon 224 Medium';
   font-size: 40px;
   line-height: 50px;
+  color: black;
+  letter-spacing: -1px;
 }
 
 .post-footer {
@@ -858,4 +882,59 @@ blockquote p {
 .hollow-button:hover {
   background-color: black;
   color: white;
+}
+
+#articles h3 {
+  font-family: 'Caslon 224 Medium';
+  text-align: center;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+
+/* =============================
+RESPONSIVE STYLES
+==============================*/
+
+@media(max-width:1100px) {
+
+  .small-article {
+    width: 48%;
+  }
+
+}
+
+@media(max-width:680px) {
+
+  .small-article {
+    width: 90%;
+  }
+
+  .flex-wrapper {
+    justify-content: center;
+  }
+
+  .post-title {
+    font-size: 32px;
+    letter-spacing: -1px;
+  }
+
+  .post-header img {
+    margin-bottom: 60px;
+  }
+
+  article blockquote p {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  blockquote {
+    padding-left: 30px;
+  }
+
+  article p {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
 }
