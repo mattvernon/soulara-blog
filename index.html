@@ -23,15 +23,16 @@ layout: default
 </section>
 
 <section class="articles">
-  <div class="wrapper">
+  <div class="flex-wrapper">
 
     {% for posts in site.posts reversed %}
 
-      <a href="{{ posts.url | remove: ".html" }}">
-        <div>
-          <img src="{{ posts.image }}">
-          <h4>{{ posts.title }}</h4>
-        </div>
+      <a href="{{ posts.url | remove: ".html" }}" class="small-article">
+          <img src="{{ posts['Main Image'] }}" class="small-article-img">
+          <div class="small-article-details">
+            <small>{{ posts.categories }}</small>
+            <h4 class="small-article-title">{{ posts.title }}</h4>
+          </div>
       </a>
 
     {% endfor %}

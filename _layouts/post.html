@@ -7,13 +7,42 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <img src="{{ page['Main Image'] }}" class="article-main-img">
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
 </article>
+
+<div class="post-footer wrapper">
+  <a href="/" class="hollow-button">Back to Blog</a>
+  <div class="post-share">
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59262a78a2d2ef49"></script>
+  </div>
+</div>
+
+<!-- recent articles -->
+<section id="articles" class="wrapper">
+  <h3>Latest Profiles</h3>
+  <div class="flex-wrapper">
+        {% for posts in site.posts limit:3 %}
+          {% if posts.title == page.title %}
+            {% continue %}
+          {% else %}
+
+          <a href="{{ posts.url | remove: ".html" }}" class="small-article">
+              <img src="{{ posts['Main Image'] }}" class="small-article-img">
+              <div class="small-article-details">
+                <small>{{ posts.categories }}</small>
+                <h4 class="small-article-title">{{ posts.title }}</h4>
+              </div>
+          </a>
+
+          {% endif %}
+        {% endfor %}
+  </div>
+</section>
 
 
 <!-- PUT ARTICLE PAGE HERE ^^^^ -->

@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    main_image: "/assets/placeholder.png"
+    Main Image: "/assets/placeholder.png"
 - scope:
     path: ''
     type: pages
