@@ -1,6 +1,9 @@
 ---
 title: A beginner's guide to meditation
 date: 2017-07-13 05:06:00 Z
+categories:
+- Lifestyle
+Main Image: "/uploads/mariam-soliman-267316%20(1).jpg"
 ---
 
 You’ve heard people rave about meditating, you’ve read articles about CEOs and celebrities claiming to be meditation devotees, and you’ve made the decision to incorporate it into your daily routine. But how to begin?
