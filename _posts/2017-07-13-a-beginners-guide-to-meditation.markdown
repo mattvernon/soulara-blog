@@ -22,7 +22,7 @@ Find somewhere comfortable: Create a quiet, distraction-free environment. Sit in
 
 Your spine controls every nerve and aspect of your body, and Indian thought maintains that’s where the seven chakras, where energy flows in our bodies, are located. It’s only natural you want to be conscious of it. Sit up straight by rolling your shoulders up and backward. Keep your head elevated above your heart. If you feel yourself slump or hunch, adjust accordingly.
 
-**Practice your breath**
+### **Practice your breath**
 
 Wondering how exactly to meditate? Focus on the breath moving in and out, particularly in the area between your nostrils and upper lip, and bring your thoughts back to it whenever they start to get away from you. It doesn’t hurt that mindful breathing is one of the quickest ways to reduce anxiety and helps strengthen the mind-body connection.
 
