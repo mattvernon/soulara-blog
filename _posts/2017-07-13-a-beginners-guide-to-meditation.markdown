@@ -3,14 +3,10 @@ title: A beginner's guide to meditation
 date: 2017-07-13 05:06:00 Z
 ---
 
-You’ve heard people rave about meditating, you’ve read articles about CEOs and celebrities claiming to be meditation devotees, and you’ve made the decision to incorporate it into your daily routine. But how to begin?
-
-First things first, understand what meditation is. It’s not about making your mind blank or chanting a mantra — meditation is about awareness without distraction, whether that’s focusing on your breath or concentrating on a mantra or opening yourself up different thoughts.
-
-That’s it. Really. It might be hard to believe that something that sounds that simple can help regulate mood, lower blood pressure, bolster your immune system, and improve your sleep, but meditation isn’t that easy.
-
-Think of all the things on your plate — work, boyfriends and girlfriends, cleaning your house, flatmates, friends, figuring out what show to watch on Netflix next. Now imagine trying to ignore all that and turn your brain off. Tricky, isn’t it?
-
+You’ve heard people rave about meditating, you’ve read articles about CEOs and celebrities claiming to be meditation devotees, and you’ve made the decision to incorporate it into your daily routine. But how to begin?\
+First things first, understand what meditation is. It’s not about making your mind blank or chanting a mantra — meditation is about awareness without distraction, whether that’s focusing on your breath or concentrating on a mantra or opening yourself up different thoughts.\
+That’s it. Really. It might be hard to believe that something that sounds that simple can help regulate mood, lower blood pressure, bolster your immune system, and improve your sleep, but meditation isn’t that easy.\
+Think of all the things on your plate — work, boyfriends and girlfriends, cleaning your house, flatmates, friends, figuring out what show to watch on Netflix next. Now imagine trying to ignore all that and turn your brain off. Tricky, isn’t it?\
 Like most things in life, meditation requires patience and practice, but putting in the time and effort can have a positive impact on your physical, mental, and emotional health. Here are some of our top tips for meditation newbies so you can start clearing your mind and reaping the benefits.
 
 ### **Set an intention**
