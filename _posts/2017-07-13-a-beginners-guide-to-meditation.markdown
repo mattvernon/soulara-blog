@@ -13,13 +13,19 @@ Think of all the things on your plate — work, boyfriends and girlfriends, clea
 
 Like most things in life, meditation requires patience and practice, but putting in the time and effort can have a positive impact on your physical, mental, and emotional health. Here are some of our top tips for meditation newbies so you can start clearing your mind and reaping the benefits.
 
-**Set an intention**
+### **Set an intention**
+
 Setting an intention before you meditate helps focus the individual practice and guide your greater relationship with meditation. Stay positive, and focus on an achievable goal — then, when you begin meditating, surrender it. While it’s important to have goals, acknowledging what you don’t have control over and the infinite ways your intention can manifest can help your attitude and outlook. It will also help remind you of what you want to accomplish. For example, if you want to start meditating, then there’s no excuse to start today.
 Find somewhere comfortable: Create a quiet, distraction-free environment. Sit in a chair or on the floor in a cross-legged positions with the hands on the knees. You want to be focused on meditation, not pain in your back or extraneous sound. Just remember not to make it so comfortable you feel tempted to drift to sleep.
 
-**Remember your spine **
+### **Remember your spine**
+
 Your spine controls every nerve and aspect of your body, and Indian thought maintains that’s where the seven chakras, where energy flows in our bodies, are located. It’s only natural you want to be conscious of it. Sit up straight by rolling your shoulders up and backward. Keep your head elevated above your heart. If you feel yourself slump or hunch, adjust accordingly.
 
 **Practice your breath**
+
 Wondering how exactly to meditate? Focus on the breath moving in and out, particularly in the area between your nostrils and upper lip, and bring your thoughts back to it whenever they start to get away from you. It doesn’t hurt that mindful breathing is one of the quickest ways to reduce anxiety and helps strengthen the mind-body connection.
-Be patient: Seriously. Becoming “good” at meditation doesn’t happen overnight, and if you find it frustrating, you’re not alone. Start with five minute intervals, and don’t criticize yourself if your thoughts wander or if you can’t stop thinking about an assignment at work — relax and return to your breath. If you’re really not feeling it one day, listen to your body and don’t push yourself. Meditation shouldn’t feel like a chore, and after consistent practice, it will soon be something you can return to.
+
+### Be patient
+
+Seriously. Becoming “good” at meditation doesn’t happen overnight, and if you find it frustrating, you’re not alone. Start with five minute intervals, and don’t criticize yourself if your thoughts wander or if you can’t stop thinking about an assignment at work — relax and return to your breath. If you’re really not feeling it one day, listen to your body and don’t push yourself. Meditation shouldn’t feel like a chore, and after consistent practice, it will soon be something you can return to.
