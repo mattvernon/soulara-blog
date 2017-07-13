@@ -825,7 +825,7 @@ article p {
   font-size: 18px;
   line-height: 37px;
   color: #4C4C4C;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 
 article ul p {
@@ -846,6 +846,7 @@ article p h2 {
 
 article p h3 {
   font-size: 20px;
+  margin-top: 30px;
 }
 
 blockquote {
@@ -863,7 +864,10 @@ blockquote p {
 }
 
 .post-footer {
-  margin: 40px 0 120px 0;
+  margin: 100px 0 120px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .hollow-button {
@@ -889,6 +893,12 @@ blockquote p {
   text-align: center;
   font-weight: 400;
   font-size: 28px;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  margin-top: 60px;
 }
 
 
