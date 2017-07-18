@@ -1,6 +1,6 @@
 ---
-title: Herbs to ease Anxiety
-date: 2017-07-13 07:22:00 Z
+title: Herbs to Ease Anxiety
+date: 2017-07-13 17:22:00 +10:00
 categories:
 - Health
 Main Image: "/uploads/sarah-dorweiler-211779%20(1).jpg"
