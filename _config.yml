@@ -1,6 +1,6 @@
 ---
 title: Soulara Blog
-timezone: UTC
+timezone: Australia/Sydney
 collections:
   posts:
     title: Posts
