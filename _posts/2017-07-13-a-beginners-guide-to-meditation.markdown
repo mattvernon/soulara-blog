@@ -1,6 +1,6 @@
 ---
-title: A beginner's guide to meditation
-date: 2017-07-13 05:06:00 Z
+title: A Beginner's Guide to Meditation
+date: 2017-07-13 15:06:00 +10:00
 categories:
 - Lifestyle
 Main Image: "/uploads/mariam-soliman-267316%20(1).jpg"
