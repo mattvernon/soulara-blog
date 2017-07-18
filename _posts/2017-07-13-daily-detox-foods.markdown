@@ -1,6 +1,6 @@
 ---
-title: Daily detox foods
-date: 2017-07-13 07:13:00 Z
+title: Daily Detox Foods
+date: 2017-07-13 17:13:00 +10:00
 categories:
 - Food
 Main Image: "/uploads/milo-mcdowell-2198%20(1).jpg"
