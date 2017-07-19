@@ -41,9 +41,10 @@ layout: default
           {% else %}
 
           <a href="{{ posts.url | remove: ".html" }}" class="small-article">
-              <img src="{{ posts['Main Image'] }}" class="small-article-img">
+              <div class="small-article-img" style="background-image: url({{ posts['Main Image'] }});"></div>
+              <!-- <img src="{{ posts['Main Image'] }}" class="small-article-img"> -->
               <div class="small-article-details">
-                <small>{{ posts.categories }}</small>
+                <small>{{ posts.categories.first }}</small>
                 <h4 class="small-article-title">{{ posts.title }}</h4>
               </div>
           </a>
