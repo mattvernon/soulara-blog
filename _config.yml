@@ -5,8 +5,11 @@ collections:
   blog:
     title: Blog
     output: true
-  posts:
+  postsasd:
     title: Blog
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
