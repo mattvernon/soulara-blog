@@ -3,7 +3,7 @@ title: Daily Detox Foods
 date: 2017-07-13 17:13:00 +10:00
 categories:
 - Food
-Main Image: "/uploads/milo-mcdowell-2198%20(1).jpg"
+Main Image: "/uploads/milo-mcdowell-2198%20sml.jpg"
 ---
 
 “Detox” is a loaded word. It conjures up a medley of diets, from juice fasts to apple cider vinegar cleanses, all in the pursuit of a flat tummy and clear skin. While these might be effective in the short-term, they’re not necessarily sustainable in the long run. And here’s the secret they’re not telling you: your body naturally detoxes, your lymphatic, digestive, and cardiovascular systems working together to flush out toxins and keep your body glowing from the inside out.
