@@ -3,7 +3,7 @@ title: Herbs to Ease Anxiety
 date: 2017-07-13 17:22:00 +10:00
 categories:
 - Health
-Main Image: "/uploads/sarah-dorweiler-211779%20(1).jpg"
+Main Image: "/uploads/sarah-dorweiler-211779%20sml.jpg"
 ---
 
 Facing a difficult week? Struggling with a long-term anxiety disorder? No matter its form, anxiety can take its toll on your health, productivity, and lifestyle. Meditation and yoga can be powerful tools to address stress and anxiety, but what you eat has a monumental impact on your mental and emotional wellbeing. You can’t go wrong with plant-based, superfood dinners, but sometimes, you only have to look as far as your garden for natural remedies.
