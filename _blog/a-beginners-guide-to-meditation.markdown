@@ -4,6 +4,7 @@ date: 2017-07-13 15:06:00 +10:00
 categories:
 - Lifestyle
 Main Image: "/uploads/mariam-soliman-267316%20sml.jpg"
+layout: post
 ---
 
 You’ve heard people rave about meditating, you’ve read articles about CEOs and celebrities claiming to be meditation devotees, and you’ve made the decision to incorporate it into your daily routine. But how to begin?
