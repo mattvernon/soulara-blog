@@ -3,7 +3,7 @@ title: Soulara Blog
 timezone: Australia/Sydney
 collections:
   blog:
-    title: Blog
+    title: Posts
     output: true
   posts:
     title: Posts
