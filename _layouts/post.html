@@ -35,10 +35,10 @@ layout: default
 <section id="articles" class="wrapper">
   <h3>Latest Articles</h3>
   <div class="flex-wrapper">
-        {% for posts in site.posts limit:3 %}
-          {% if posts.title == page.title %}
-            {% continue %}
-          {% else %}
+    {% assign items_found = 0 %}
+    {% for posts in site.blog reversed %}
+    {% unless posts.title == page.title %}
+    {% assign items_found = items_found | plus: 1 %}
 
           <a href="{{ posts.url | remove: ".html" }}" class="small-article">
               <div class="small-article-img" style="background-image: url({{ posts['Main Image'] }});"></div>
@@ -49,8 +49,9 @@ layout: default
               </div>
           </a>
 
-          {% endif %}
-        {% endfor %}
+          {% endunless %}
+      {% if items_found == 3 %}{% break %}{% endif %}
+    {% endfor %}
   </div>
 </section>
 

@@ -14,10 +14,10 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: blog
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/blog/:title/"
     Main Image: "/assets/placeholder.png"
 - scope:
     path: ''
