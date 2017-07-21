@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<img src="../assets/fern_left.png" class="fern-left">
-<img src="../assets/fern_right.png" class="fern-right">
+<img src="/assets/fern_left.png" class="fern-left">
+<img src="/assets/fern_right.png" class="fern-right">
 
 <section class="hero">
-  <h2>{{ page.tag }}</h2>
+  <h2>{{ page.category }}</h2>
 
   <a href="/">← Back to all categories</a>
   <div class="category-nav">
@@ -24,7 +24,7 @@ layout: default
   <div class="flex-wrapper">
 
 
-    {% for post in site.categories[page.tag] %}
+    {% for post in site.categories[page.category] %}
 
       <a href="{{ post.url | remove: ".html" }}" class="small-article">
           <div class="small-article-img" style="background-image: url({{ post['Main Image'] }});"></div>
