@@ -2,13 +2,14 @@
 title: Soulara Blog
 timezone: Australia/Sydney
 collections:
+  category:
+    title: Category
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  category:
     output: true
 defaults:
 - scope:
