@@ -14,7 +14,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: blog
+    type: post
   values:
     layout: post
     permalink: "/blog/:title/"
