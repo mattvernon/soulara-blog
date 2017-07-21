@@ -652,11 +652,21 @@ MY STYLES
   margin-bottom: 20px;
 }
 
-.hero small {
+.hero small,
+.hero a {
   text-transform: uppercase;
   color: #B5B5B5;
   font-size: 12px;
   letter-spacing: 0.5px;
+}
+
+.hero a {
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.hero a:hover {
+  color: black;
 }
 
 .hero .category-nav {
