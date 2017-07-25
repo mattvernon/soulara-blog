@@ -8,7 +8,7 @@ tags:
 - environment
 - weight los
 - nutrition
-Main Image: "/uploads/dish-1209170_1920.jpg"
+Main Image: "/uploads/dish-1209170_1920-688b3f.jpg"
 ---
 
 For many people, trying to lose weight means cutting back on calories and eating a restrictive diet that’s as unsatisfying as it is unsustainable. It’s hard not to cave or cheat when depriving yourself of your favourite foods and struggling with nearly constant hunger pains, meaning there’s plenty of opportunity for the weight to come back. 
