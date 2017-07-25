@@ -9,7 +9,7 @@ tags:
 - fruits
 - clean eating
 - vegan
-Main Image: "/uploads/cereal-898073_1920-b5b035.jpg"
+Main Image: "/uploads/cereal-898073_1920-6125af.jpg"
 ---
 
 We’ve all been there: you’ve had lunch, you can almost start counting down the minutes to after-work drinks or a home-cooked meal, but you just need something to get you through the final hours. While it can be tempting to power through with chips or a muffin, reaching for nutrient-free foods is only going to make you sluggish, irritable, and bloated. We’re all about keeping a rumbling stomach at bay and know that there are healthier options to keep you going until the end of the workday. Here are some of our go-to’s when we want something more than a handful of fruits, nuts, or carrot sticks:
