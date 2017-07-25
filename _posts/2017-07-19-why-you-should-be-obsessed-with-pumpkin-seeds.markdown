@@ -8,7 +8,7 @@ tags:
 - nutrition
 - healthy snacks
 - magnesium
-Main Image: "/uploads/pumpkin-seeds-1974655_1920.jpg"
+Main Image: "/uploads/pumpkin-seeds-1974655_1920-906484.jpg"
 ---
 
 As wellness becomes trendy, many people try to maximise their health by loading up on supplements and pills. However, the best place to find nutrition is from the source, and our current obsession is pumpkin seeds, the tiny but mighty seed that packs a serious punch. In just a handful, you’ll find vitamins K, E, and the B group, as well as a generous amount of protein and fiber. They can help fight tapeworms and other parasites and boost your health in a multitude of ways, both physically and mentally. It doesn’t hurt that they’re also delicious and the perfect snack to take on-the-go.
