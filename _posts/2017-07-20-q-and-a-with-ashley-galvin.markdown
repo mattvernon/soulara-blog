@@ -8,7 +8,7 @@ tags:
 - nutrition
 - yoga
 - wellness
-Main Image: "/uploads/IMG_2625.jpg"
+Main Image: "/uploads/ashley-galvin.gif"
 ---
 
 Seven years ago, [Ashley Galvin](https://ashleygalvinyoga.com) wasn’t anywhere close to doing savasana, let alone handstands. That was, until the then 25-year-old attended her first yoga class: immediately, she knew she had found something special and the rest, as they say, is history. Ashley has been teaching for the past five years, developing a strong personal and social media following for her flexibility, strength, and belief in living with an open heart.
