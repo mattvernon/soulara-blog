@@ -9,7 +9,7 @@ tags:
 - minimalism
 - vegan
 - environment
-Main Image: "/uploads/teacup-2325722_1920.jpg"
+Main Image: "/uploads/teacup-2325722_1920-b3cb2b.jpg"
 ---
 
 From kale chips to almond milk, the wellness world is one always eager to embrace new trends. And when people caught wind of hygge last year, that was no exception.  The Danish philosophy was all about being cozy, focusing on happiness by having that slice of cake or spending more time with friends and family. 
