@@ -10,7 +10,7 @@ tags:
 - clean eating
 - vitamins
 - minerals
-Main Image: "/uploads/chocolate-183543_1920.jpg"
+Main Image: "/uploads/chocolate-183543_1920-f84e44.jpg"
 ---
 
 It seems like everyone’s always searching for the next superfood to keep their bodies happy and healthy, but your gut’s biggest ally might not be the trendiest veggie or acai bowl. When it comes to promoting a strong digestive and immune system, bacteria are your biggest ally. Not just any bacteria: probiotics are essential for a healthy gut, which in turn impacts your energy, mood, weight, and ability to fight off diseases. Sure, grass-fed organic yogurt is a great source, but there are plenty more options for those staying dairy-free. Here are some of our favourite probiotic-rich (and vegan-approved) foods.
