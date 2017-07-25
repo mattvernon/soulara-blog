@@ -8,7 +8,7 @@ tags:
 - environment
 - carbon footprint
 - vegan diet
-Main Image: "/uploads/autumn-219972_1280.jpg"
+Main Image: "/uploads/autumn-219972_1280-1e7f4b.jpg"
 ---
 
 One of the most powerful aspects of a healthy, plant-based diet is often one of the more forgotten ones. Along with having a positive influence on personal wellbeing, it also boosts global and environmental health, especially critical as the world’s population continues to boom and the **Environmental Working Group** estimates that we’ll need 50% more food to feed them. However, food production can be a huge drain on the environment. According to the **Food and Agriculture Organization (FAO)**, it can contribute to about 15% of greenhouse gases, falling into a category composed of oil, coal, and car emissions.
