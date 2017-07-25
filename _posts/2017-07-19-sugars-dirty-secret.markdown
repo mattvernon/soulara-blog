@@ -9,7 +9,7 @@ tags:
 - healthy snacks
 - lifestyle
 - health
-Main Image: "/uploads/Sugar%20Blog.jpg"
+Main Image: "/uploads/donuts-690281_1280.jpg"
 ---
 
 Ah: sweet, sweet sugar. From Doughnut Time to freakshakes, we know how much Australia loves you — after all, they’re consuming more than twice as much as recommended by the **World Health Organisation**. While the white stuff might be delicious (and look great on Instagram), consuming too much can have adverse and dangerous effects on your health, mood, and lifestyle.
