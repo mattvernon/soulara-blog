@@ -10,7 +10,7 @@ tags:
 - nutrition
 - magnesium
 - protein
-Main Image: "/uploads/Mental%20Health%20Blog.jpg"
+Main Image: "/uploads/carrot-soup-2192152_1280.jpg"
 ---
 
 We’re taught that bacteria aren’t our friends, but when it comes to the flora in our gut, we should be calling them our BFFs. Not only are gut bacteria responsible for helping with digestion and absorbing nutrients, but a healthy gut is correlated with stable, uplifted moods. As it turns out, vegans tend to have healthier digestive systems and better mental health than their meat-eating counterparts. Here’s why switching to a vegan diet is doing favours for your brain, as well as your body:
