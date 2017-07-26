@@ -36,7 +36,7 @@ layout: default
   <h3>Latest Articles</h3>
   <div class="flex-wrapper">
     {% assign items_found = 0 %}
-    {% for posts in site.posts reversed %}
+    {% for posts in site.posts %}
     {% unless posts.title == page.title %}
     {% assign items_found = items_found | plus: 1 %}
 
