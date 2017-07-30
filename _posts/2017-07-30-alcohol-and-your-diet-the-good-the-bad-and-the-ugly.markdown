@@ -1,6 +1,14 @@
 ---
 title: 'Alcohol and Your Diet: The Good, the Bad, and the Ugly'
 date: 2017-07-30 10:07:00 +10:00
+categories:
+- lifestyle
+tags:
+- alcohol
+- hydration
+- wine
+- nutrition
+- lifestyle
 Main Image: "/uploads/glasses-213156_1280%20(1).jpg"
 ---
 
