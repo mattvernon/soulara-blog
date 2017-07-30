@@ -1,6 +1,16 @@
 ---
-title: Ways to Show Your Body Some Love
+title: Top Wellness Tips (Besides Eating Your Greens)
 date: 2017-07-30 09:53:00 +10:00
+categories:
+- Nutrition
+tags:
+- wellness
+- hydration
+- vegan
+- exercise
+- stress
+- lifestyle
+- plant-based diet
 Main Image: "/uploads/drink-2313985_1280%202.jpg"
 ---
 
