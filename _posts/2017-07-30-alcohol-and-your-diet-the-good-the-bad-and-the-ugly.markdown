@@ -9,7 +9,7 @@ tags:
 - wine
 - nutrition
 - lifestyle
-Main Image: "/uploads/glasses-213156_1280%20(1).jpg"
+Main Image: "/uploads/alcohol.jpg"
 ---
 
 We get it — we love a glass of white wine at the end of a long week as much as the next person. But what about the impact on our body? Alcohol’s impact on wellness goals is constantly debated, and we’re here to go through the good, the bad, and the ugly.
