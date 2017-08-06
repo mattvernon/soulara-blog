@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: Yoko'
+title: 'Q&A: Yoko Inoue'
 date: 2017-08-06 17:22:00 +10:00
 categories:
 - Lifestyle
