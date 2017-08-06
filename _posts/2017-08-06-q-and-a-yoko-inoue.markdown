@@ -16,12 +16,12 @@ Main Image: "/uploads/yoko.jpg"
 In Japanese, shokuiku means “food education.” That’s exactly what Yoko Inoue, the founder behind Melbourne’s organic raw and living food café [Shokuiku](shokuikuaustralia.com/), wants to achieve, teaching people about what it means to live a balanced, healthy life. We chatted with Yoko about healthy lifestyle tips, macrobiotics, and the one thing she’d eat for the rest of her life. 
 
 **Tell me a bit about your health journey and creating Shokuiku.**
-My health journey started when I was pregnant with my daughter, Iayla, now 13 years old. Like many mums, I wanted to eat healthy for her and myself. More I learnt about a healthier lifestyle for ourselves and the environment, the more passionate I became. While I was studying holistic nutrition, I found raw and living foods, which I fell in love with.
+My health journey started when I was pregnant with my daughter, Iayla, now 13 years old. Like many mum, I wanted to eat healthy for her and myself. While I was studying holistic nutrition, I found raw and living foods, which I fell in love with.
 
 I wanted to create a space that offers exactly what I was looking for: consciously-created foods that are made with unprocessed, ethical ingredients, foods that are full of vitality and also taste good. Shokuiku is a place that serves foods I want to eat myself and shared with loved ones. 
 
 **What does healthy eating mean to you?**
-Healthy eating to me is choosing foods that nourish, build, cleanse, heal, and balance your body. Healthy eating is knowing how powerful foods can be and choosing what to eat consciously with self-acceptance and self-love. I believe it is more empowering and healthier if it comes from wanting to be the best version of yourself, to feel god, not because you feel negatively about certain food groups or part of yourself. 
+Healthy eating to me is choosing foods that nourish, build, cleanse, heal, and balance your body. I believe it is more empowering and healthier if it comes from wanting to be the best version of yourself. 
 
 Healthy foods may look slightly different for different people. Most people will benefit from eating less-processed and refined foods and adding more whole foods with abundance of vegetables. 
 
@@ -34,7 +34,7 @@ Even though my current diet is predominantly raw, I still love the philosophy an
 **What is the connection between a healthy body and a healthy soul?**
 I like to see that they are intertwined in the way that can be seen as just one thing. Healthy body does not exist without healthy soul and vice versa.
 
-**You can only eat one thing for the rest of your life — what would it be?**
+You can only eat one thing for the rest of your life — what would it be?
 It is too hard to pick just one, but maybe seaweed. (If you could have let me have one more, I’d take cacao!)
 
 **Favourite Australian escape?**
