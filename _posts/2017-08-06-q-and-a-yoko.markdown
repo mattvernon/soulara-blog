@@ -10,7 +10,7 @@ tags:
 - vegetables
 - clean eating
 - health
-Main Image: "/uploads/_P4P0137%20(1).jpg"
+Main Image: "/uploads/yoko.jpg"
 ---
 
 In Japanese, shokuiku means “food education.” That’s exactly what Yoko Inoue, the founder behind Melbourne’s organic raw and living food café [Shokuiku](shokuikuaustralia.com/), wants to achieve, teaching people about what it means to live a balanced, healthy life. We chatted with Yoko about healthy lifestyle tips, macrobiotics, and the one thing she’d eat for the rest of her life. 
