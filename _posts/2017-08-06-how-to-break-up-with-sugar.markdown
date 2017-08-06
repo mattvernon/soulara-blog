@@ -1,5 +1,5 @@
 ---
-title: How to Break-Up with Sugar
+title: How to Break-Up With Sugar
 date: 2017-08-06 17:46:00 +10:00
 Main Image: "/uploads/cupcakes.jpg"
 ---
