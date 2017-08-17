@@ -1,7 +1,7 @@
 ---
 title: Why You Should Be Eating More Chocolate
 date: 2017-08-16 16:37:00 +10:00
-Main Image: "/uploads/chocolate-2224998_1920%20(1).jpg"
+Main Image: "/uploads/chocolate.jpg"
 ---
 
 Yep, you read that right. We want you to be eating more chocolate, or at least chocolate’s healthier older sister. Cacao is chocolate’s raw form, while the cocoa found in our favourite cakes and Cadbury has been chemically processed, roasted, and often combined with genetically modified ingredients. Meaning all the good, superfood benefits have been erased.  
