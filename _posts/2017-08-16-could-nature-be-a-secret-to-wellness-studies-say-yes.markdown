@@ -7,7 +7,7 @@ tags:
 - clean eating
 - lifestyle
 - wellness
-Main Image: "/uploads/forest-868715_1920%20(1).jpg"
+Main Image: "/uploads/forest.jpg"
 Field name: 
 ---
 
