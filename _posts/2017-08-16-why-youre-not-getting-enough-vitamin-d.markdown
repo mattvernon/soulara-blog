@@ -10,7 +10,7 @@ tags:
 - wellness
 - vitamins
 - healthy snacks
-Main Image: "/uploads/summerfield-336672_1920%20(1).jpg"
+Main Image: "/uploads/summerfield-336672_1920.jpg"
 ---
 
 Every day, it seems like we’re told about a new vitamin or mineral that is chronically deficient in our diets, with bottles rattled in our faces promising to change our health overnight. With claims of boosting mood, improving energy, thickening hair, or strengthening muscles, it can be hard to weed the crocodile tears from the supplements we should really be including. That’s why we’re here to help.
