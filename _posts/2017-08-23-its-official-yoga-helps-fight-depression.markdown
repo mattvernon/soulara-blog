@@ -1,6 +1,13 @@
 ---
 title: 'It''s Official: Yoga Helps Fight Depression'
 date: 2017-08-23 21:55:00 +10:00
+categories:
+- Lifestyle
+tags:
+- lifestyle
+- wellness
+- yoga
+- exercise
 Main Image: "/uploads/yoga.jpg"
 ---
 
