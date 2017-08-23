@@ -1,6 +1,13 @@
 ---
 title: Why You Should Be Eating Silver, Not Just Wearing It
 date: 2017-08-23 21:56:00 +10:00
+categories:
+- Nutrition
+tags:
+- nutrition
+- healthy snacks
+- wellness
+- clean eating
 Main Image: "/uploads/silver.jpg"
 ---
 
