@@ -1,5 +1,5 @@
 ---
-title: Fight Allergies - Naturally
+title: Fighting Allergies? Your Diet Can Help
 date: 2017-09-11 15:05:00 +10:00
 Main Image: "/uploads/allergies.jpg"
 ---
