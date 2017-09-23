@@ -9,7 +9,7 @@ tags:
 - health
 - yoga
 - lifestyle
-Main Image: "/uploads/young-woman-2699780_1920%20(1).jpg"
+Main Image: "/uploads/wellness.jpg"
 ---
 
 With our hectic schedules, it can seem like we’re rushing between work, drinks with friends, and a long list of other commitments, all while trying to look our best. We’re all about killing it at work, but just as important as taking the world by storm everyday is giving yourself a little TLC to boost yourself physically and mentally. Believe us, your beauty arsenal has yet to meet an ally like mindfulness.
