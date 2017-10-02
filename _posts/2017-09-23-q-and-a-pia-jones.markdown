@@ -6,7 +6,7 @@ categories:
 tags:
 - health
 - q&a
-Main Image: "/uploads/pia.jpg"
+Main Image: "/uploads/piajones.jpg"
 ---
 
 Though Pia Jones is now a nutritionist, naturopath, and psychologist at Brisbane’s integrated health clinic [River Tree Health](rivertreehealth.com.au/), she didn’t always have the healthiest relationship with food. After struggling with anorexia as a teenager, she now is an advocate of integrative health and treating diet as nourishment. We chatted with Pia about the best way to care for our bodies on the go and how nutrition impacts our overall wellness.
