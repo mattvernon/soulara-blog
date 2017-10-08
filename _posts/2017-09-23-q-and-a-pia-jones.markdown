@@ -17,7 +17,7 @@ It was a six month stint living in a seaside town called Essouira in Morocco tha
 **What is the connection between the brain and the body? Why is nutrition so important for overall wellness?**
 We know that the gut and brain communicate with one another and if there is an imbalance in either one, the other is impacted. Vitamins, minerals and amino acids are the building blocks for our hormones and neurotransmitters, which are very powerful messengers in the body. Without good food, the body simply does not have the building blocks to manufacture these messengers that keep us happy and healthy.
   
-**What does a healthy diet mean to you? **
+**What does a healthy diet mean to you?**
 A wholefood diet! I believe we have different needs and preferences based on genetics, intolerances, lifestyle, moral considerations and personal taste! However, eating a diet that places an emphasis on plant based options and minimises processed and pre packaged food is the number one priority. Plant-based foods contain enzymes that support the digestive process and provide fuel for good bacteria, whilst processed foods tend to be loaded with sugar and chemicals and encourage the overgrowth of bad bacteria in the gut.
  
 **How can we best care for our health?** 
