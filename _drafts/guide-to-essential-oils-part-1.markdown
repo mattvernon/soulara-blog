@@ -8,6 +8,7 @@ tags:
 - wellness
 - health
 - beauty
+Main Image: "/uploads/oiil.jpg"
 ---
 
 For more than 5,000 years, cultures worldwide have consistently agreed on a super-powered remedy: essential oils. Aromatherapy, or the use of essential oils, is a practice that has been relied upon to treat a range of ailments from skin conditions to bodily pain to cellulite. Bonus: some can even be used in cleaning your home.
