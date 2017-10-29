@@ -35,4 +35,4 @@ Kundalini (or “serpent”) yoga is a bit different than your traditional flow.
 **Iyengar**
 Perhaps less common, this practice is a great one for those of all levels and ages. Also known by its moniker “furniture yoga,” it was developed by B.K.S. Iyengar and draws on props like straps, blocks, and harnesses to help you perfectly achieve an asana. It prioritises alignment over building up a sweat, but that doesn’t mean it’s easy — if you’re looking for something a little gentler, we’d still recommend sticking with yin.
 
-The best complement to a yoga practice? Our Soulara plant-powered meals, which are as delicious as they are nutritious to help you feel healthy, happy, sexy, and strong. Namaste to that. 
+The best complement to a yoga practice? Our [Soulara](https://www.soulara.com.au/) plant-powered meals, which are as delicious as they are nutritious to help you feel healthy, happy, sexy, and strong. Namaste to that. 
