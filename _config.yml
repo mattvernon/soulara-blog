@@ -1,7 +1,6 @@
 ---
 title: Soulara Blog
 timezone: Australia/Sydney
-description: Soulara prepared meals arrive at your door in a refrigerated, 100% recyclable box. Made with love.
 collections:
   category:
     title: Category
@@ -30,4 +29,6 @@ defaults:
     type: category
   values:
     layout: category
+description: Soulara prepared meals arrive at your door in a refrigerated, 100% recyclable
+  box. Made with love.
 permalink: pretty
