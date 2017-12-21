@@ -1,6 +1,16 @@
 ---
 title: Why You Need To Be Eating Yuzu
 date: 2017-12-22 04:04:00 +11:00
+categories:
+- Nutrition
+tags:
+- wellness
+- fruit
+- diet
+- plant-based diet
+- health
+- gut health
+Main Image: "/uploads/yuzu.jpg"
 ---
 
 1,200 years ago, people in ancient China discovered a miracle fruit: it could be used in baths, it added citrus notes to cooking, it was bursting with antioxidants, and it was a great weapon against illness. Fast forward to today, and while it remains popular in China, Japan, and Korea, you might not have heard of yuzu. We think that should change. 
@@ -17,5 +27,4 @@ But yuzu is not a one-trick pony. It has a variety of mental and physical benefi
 
 And the skin benefits just don’t end: Yuzu also contains Vitamin A, which will target the bacteria in your body that cause acne, while Vitamin C helps reduce swelling so even if you do suffer a breakout, it won’t be as noticeable. 
 
-At Soulara, our nutritionist-designed meals are packed with the nutrients you need and a taste you’ll love. Delivered straight to your door, our dishes will keep you feeling happy, healthy, sexy, and strong. 
-
+At [Soulara](https://www.soulara.com.au/), our nutritionist-designed meals are packed with the nutrients you need and a taste you’ll love. Delivered straight to your door, our dishes will keep you feeling happy, healthy, sexy, and strong. 
