@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: Elena Amsterdam'
+title: 'Q&A: Elana Amsterdam'
 date: 2018-01-22 13:31:00 +11:00
 categories:
 - Lifestyle
@@ -12,7 +12,7 @@ tags:
 Main Image: "/uploads/elana.jpg"
 ---
 
-When Elena Amsterdam was diagnosed with Celiac Disease two decades ago, “gluten-free” wasn’t really on anyone’s radar. In 2006, she started a blog to document her adventures in food, a blog which has now turned into a series of popular cookbooks. [Soulara](soulara.com.au) chatted with the woman behind [elanaspantry.com](https://elanaspantry.com/) about how simple a health philosophy can be, how to reduce inflammation, and her favourite dessert. 
+When Elana Amsterdam was diagnosed with Celiac Disease two decades ago, “gluten-free” wasn’t really on anyone’s radar. In 2006, she started a blog to document her adventures in food, a blog which has now turned into a series of popular cookbooks. [Soulara](soulara.com.au) chatted with the woman behind [elanaspantry.com](https://elanaspantry.com/) about how simple a health philosophy can be, how to reduce inflammation, and her favourite dessert. 
 
 **Tell us a bit about your journey.** 
 In 2006, I was diagnosed with multiple sclerosis which was devastating. I started my blog to keep my mind off that and to help others. It’s been so uplifting for me. I love writing recipes, sharing health tips, and more than anything, answering comments from readers! 
