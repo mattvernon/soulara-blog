@@ -30,5 +30,5 @@ Like most morning people, L.C. is all about setting your alarm to have plenty of
 **Miranda Kerr**
 The supermodel gets her glow from doing one simple thing every day: a morning begun with dry brushing. Dry brushing is a powerful exfoliator, removing dead skin cells while stimulating new cell renewal. It also helps improve blood circulation, your immune system, and your lymphatic system. Bonus: it has been tied to reducing cellulite.
 
-At Soulara, our plant-powered meals are designed to be nutritious as they are delicious. Delivered straight to your door, our dishes will help you feel happy, sexy, healthy, and strong. 
+At [Soulara](https://www.soulara.com.au/), our plant-powered meals are designed to be nutritious as they are delicious. Delivered straight to your door, our dishes will help you feel happy, sexy, healthy, and strong. 
 
