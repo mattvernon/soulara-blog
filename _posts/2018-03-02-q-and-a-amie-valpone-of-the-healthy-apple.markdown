@@ -27,7 +27,7 @@ It’s about eating what makes you feel good. It’s not about eating bowls of k
 
 When I start[ed] eating 100 percent organic, I felt amazing. I want people to know that eating clean can be very simple and it can be done with just a few minor changes. If I can do it in a Manhattan apartment, you can do it anywhere!
 
-**What does it really mean to detox? What are the biggest misconceptions? **
+**What does it really mean to detox? What are the biggest misconceptions?**
 [Toxins](http://thehealthyapple.com/common-heavy-metals-making-you-sick/) are harmful substances that kill living, organic materials. Unfortunately, toxins are have established a home in our bodies and take a toll on our organs. 
   
 I learned that detox is about taking an active role in stimulating my body's ability to cleanse itself of these harmful toxic substances. My mindset shifted when I started researching [how toxic my body was](http://thehealthyapple.com/symptoms-that-show-your-body-is-toxic/), where my toxins were coming from and what they could be doing to my health. 
