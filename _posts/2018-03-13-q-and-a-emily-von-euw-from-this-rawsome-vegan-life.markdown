@@ -1,5 +1,5 @@
 ---
-title: 'Q&A: Emily Von Euw from This Rawsome Vegan Life'
+title: 'Q&A: Emily von Euw from This Rawsome Vegan Life'
 date: 2018-03-13 11:40:00 +11:00
 categories:
 - Lifestyle
