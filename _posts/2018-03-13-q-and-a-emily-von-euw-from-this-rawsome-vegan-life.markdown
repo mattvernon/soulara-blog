@@ -13,7 +13,7 @@ tags:
 Main Image: "/uploads/em.jpg"
 ---
 
-Ask Em von Euw, the award-winning creator behind [This Rawsome Vegan Life](www.thisrawsomeveganlife.com/), to define “healthy,” and she’ll remind you of the most important aspect: that there is no one definition. The blogger, cookbook author, and tahini lover knows that being healthy is practicing self-love and knowing a healthy mind and body looks different for everyone. We had a chance to chat with Em, who started her blog in 2011, about the importance of a plant-based diet, how to make the world’s best sweet potatoes, and how to stay healthy on the go.
+Ask Em von Euw, the award-winning creator behind [This Rawsome Vegan Life](www.thisrawsomeveganlife.com/), to define “healthy,” and she’ll remind you of the most important aspect: that there is no one definition. The blogger, cookbook author, and tahini lover knows that being healthy is practicing self-love and knowing a healthy mind and body looks different for everyone. We had a chance to chat with Em, who started the blog in 2011, about the importance of a plant-based diet, how to make the world’s best sweet potatoes, and how to stay healthy on the go.
 
 **Tell us a bit about your health journey. What led you to create This Rawsome Vegan Life?**
 Since I was a teenager I’ve been interested in eating foods and developing recipes that make me feel energized, balanced, positive and nourished. I began experimenting with vegan baked goods, and raw treats. 
