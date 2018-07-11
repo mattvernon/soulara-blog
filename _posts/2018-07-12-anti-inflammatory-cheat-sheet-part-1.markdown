@@ -27,4 +27,4 @@ Daily toxins can also be to blame for the rise in inflammatory-related diseases:
 
 Ready to take the steps to better health? Check out Part Two of our Anti-Inflammatory Cheat Sheet to learn ways to realistically, and successfully, reduce inflammatory triggers in your daily life.
 
-At Soulara, we’re passionate about helping you feel happy, healthy, sexy, and strong. Delivered straight to your door, our plant-powered meals are as nutritious as they are delicious.
+At [Soulara](https://www.soulara.com.au/), we’re passionate about helping you feel happy, healthy, sexy, and strong. Delivered straight to your door, our plant-powered meals are as nutritious as they are delicious.
