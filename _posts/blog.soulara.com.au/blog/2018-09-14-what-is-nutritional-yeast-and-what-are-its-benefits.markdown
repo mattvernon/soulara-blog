@@ -4,6 +4,7 @@ date: 2018-09-14 19:09:00 +10:00
 published: false
 categories:
 - Food
+Main Image: "/uploads/40601517_2302582693089167_1690652626507901064_n(1).jpg"
 ---
 
 In recent years, nutritional yeast has become a pantry staple and a superfood in its own right. 
