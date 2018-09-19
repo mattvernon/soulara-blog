@@ -9,7 +9,7 @@ tags:
 Main Image: "/uploads/nutritional%20yeast.jpg"
 ---
 
-In recent years, nutritional yeast has become a pantry staple and a superfood in its own right but what exactly is it is?
+In recent years, nutritional yeast has become a pantry staple and a superfood in its own right but what exactly is it?
 
 **What is Nutritional Yeast?**
 Not to be confused with live yeast or brewer’s yeast, nutritional yeast is grown from sugar cane, beet molasses, or wood pulp and forms part of the fungi family.
