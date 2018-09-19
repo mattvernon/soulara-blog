@@ -1,8 +1,6 @@
 ---
 title: Orange Juice - Why It’s Even More Powerful than Green Juice
 date: 2018-09-14 19:25:00 +10:00
-categories:
-- Food
 tags:
 - Juice
 Main Image: "/uploads/IMG_9683.jpg"
