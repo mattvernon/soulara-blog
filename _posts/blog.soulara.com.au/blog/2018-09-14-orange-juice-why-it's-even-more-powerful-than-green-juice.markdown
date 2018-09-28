@@ -7,11 +7,9 @@ tags:
 Main Image: "/uploads/IMG_9683.jpg"
 ---
 
-At least once in our health and fitness journey, many plant-based foodies have become enamored with the trend of using green juices as a staple in our nutrition. Perhaps juices such as apple juice and orange juice have taken a back seat to the hype around these green juices in the last couple of years. However, to the surprise of many, it is orange juice that is now making a comeback into the plant-based diet.
+In recent years, many plant-based foodies have become enamoured with using green juices as a staple in our nutrition at least once in our health and fitness journey. Traditional juices such as apple juice and orange juice have taken a back seat to the hype around these green juices in the last couple of years. However, to the surprise of many, orange juice is actually beneficial to a plant-based diet.
 
-We examine the myths around orange juice and the incredible gut health and digestion benefits that orange juice promotes.
-
-Let’s take a look at some of the benefits that this orange beverage boasts.
+We examine common perceptions around orange juice and the incredible gut health and digestion benefits that orange juice promotes.
 
 **Too much sugar?**
 It seems that one of the most talked-about myths regarding orange juice, is that it contains far too much sugar to be enjoyed regularly. Despite the many claims that orange juice will result in spikes in your blood sugar levels, orange juice actually [ranks low on the glycemic index](https://www.healthline.com/nutrition/foods/oranges#section2).
