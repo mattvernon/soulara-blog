@@ -1,6 +1,6 @@
 ---
 title: 'Q&A: Jessica Sepel'
-date: 2018-01-09 15:28:00 +11:00
+date: 2018-10-12 15:28:00 +11:00
 categories:
 - Lifestyle
 tags:
@@ -10,7 +10,7 @@ tags:
 - health
 - diet
 - recipes
-Main Image: "/uploads/jessicasepel.jpg"
+Main Image: "/uploads/JessicaSepel2.jpg"
 ---
 
 You wouldn’t know it now, but [Jessica Sepel](https://jessicasepel.com) and food weren’t always the best of friends. Struggling with diets and a weight obsession in her teens, Jess used food as a form of reward and punishment and began to notice the unhealthy toll it took on her mind and body. Now, the powerhouse behind the JSHealth brand is a nutritionist, wellness advocate, and best-selling author who has found the joy in food and a balanced diet — and wants to share it with you. We chatted with the Australian beauty about what gets her out of bed in the morning, why you shouldn’t be dieting, and some of her fave [recipes](https://jessicasepel.com/recipes-2/).
