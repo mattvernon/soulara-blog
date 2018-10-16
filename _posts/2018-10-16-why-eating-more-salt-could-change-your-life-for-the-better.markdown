@@ -13,10 +13,10 @@ Dr Jason Fung, a nephrologist, who aims to reveal the truth in his article [The 
 Australian naturopath, Barbara O’Neill clearly describes why salt is not only not bad for you, but why it is crucial for your health and wellbeing. 
 
 There are four vital elements for life:
-Oxygen
-Water
-Sodium
-Potassium
+* Oxygen
+* Water
+* Sodium
+* Potassium
 
 If sodium is a vital element, how is it that we have come to know it for its negative effects on our heart health? O’Neill states that it all comes down to the type of salt that we are consuming. 
 
