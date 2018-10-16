@@ -12,7 +12,7 @@ Dr Jason Fung, a nephrologist, who aims to reveal the truth in his article [The 
 
 Australian naturopath, Barbara O’Neill clearly describes why salt is not only not bad for you, but why it is crucial for your health and wellbeing. 
 
-There are four vital elements for life:
+**There are four vital elements for life:**
 * Oxygen
 * Water
 * Sodium
@@ -24,15 +24,15 @@ Table salt contains two minerals – sodium and chloride. Table salt is structur
 
 Alternatively, Celtic salt which derives from the Celtic Sea, contains 82 minerals – that is 80 more minerals than table salt, pretty amazing stuff. These 82 minerals are so critical for your cells to absorb nutrients that is no wonder that so many people have deficiencies related to misinformation about salt. 
 
-Glucose hitches a ride with sodium
+**Glucose hitches a ride with sodium**
 Sodium is a carrier of glucose into the bloodstream. If sodium levels in the body are too low, glucose won’t be getting into the bloodstream. This is why some people with no-salt diets will find their energy levels can drop quite dramatically. Also, in a no-salt diet the nutrients that you are consuming have trouble getting out of the gut and into your blood, so you actually end up losing a lot of nutrients instead of absorbing them. This is where a no-salt diet can become dangerous for your health. 
 
 
-Magnetic Magnesium  
+**Magnetic Magnesium**
 Celtic salt contains three different types of magnesium: mg bromide, mg sulphate and mg chloride. Magnesium is “water hungry” molecule which means it helps carry water into your cells. This is where hydration comes in. 
 
 
-Get hydrated!
+**Get hydrated!**
 The quickest way to hydrate your body is to place a Celtic salt crystal on your tongue, and then drink a glass of water. The magnesium that is in direct contact with your tongue will rapidly and effectively pull the water you drink into your cells. Not only will this hydrate you very quickly but it will also give you a boost of energy. 
 
 It’s time that we take the fear out of our salt consumption and get salt smart. Start introducing mineral-rich salt such as Celtic salt into your diet and notice the changes in your body and energy levels.
