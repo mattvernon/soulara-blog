@@ -1,6 +1,6 @@
 ---
 title: 'Superfood of the Week: Dragon Fruit'
-date: 2017-08-23 21:46:00 +10:00
+date: 2018-10-26 21:46:00 +11:00
 categories:
 - Food
 tags:
@@ -8,7 +8,7 @@ tags:
 - nutrition
 - clean eating
 - vegan
-Main Image: "/uploads/pitaya.jpg"
+Main Image: "/uploads/nikolai-chernichenko-66080-unsplash.jpg"
 ---
 
 Processed food is infamous for masking a lack of nutrients with overzealous colour, but nature’s not so clandestine: what you see is, often, what you get. Stumble upon purple cauliflower, green romesco, yellow carrots, or nearly fluorescent mangos, and you’re finding a treasure trove of vitamins and minerals. That’s especially true for pitaya, or dragon fruit, that sizzling pink, spiky fruit that equal parts intrigues you and seems too daunting to buy. Trust us: the next time you see it at the shops, be sure to stock up.
