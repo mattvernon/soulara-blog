@@ -2,7 +2,7 @@
 title: 6 Tips for Healing Your Gut
 date: 2018-11-02 16:31:00 +11:00
 published: false
-Main Image: "/uploads/gaelle-marcel-696968-unsplash.jpg"
+Main Image: "/uploads/onioncropped.jpg"
 ---
 
 **Keep it simple:**
