@@ -16,7 +16,7 @@ I created my blog Supercharged Food to share my story, create simple recipes and
 
 I had my own issues with gut health so it became my area of passion. Our gut and digestive system is cleverer than we think. The gut controls how we digest food, protects us from bacteria and is responsible for sending signals to the brain about hunger and emotions. Healing your gut brings benefit to the whole body.
 
-**What is the biggest concern in our diets that hurt our gut? **
+**What is the biggest concern in our diets that hurt our gut?**
 
 Your body is a host to around 100 trillion living organisms and although they can’t be seen, you have a smorgasbord of bacteria on and in your body with the largest concentrations found within the gut. The bacteria found within the digestive tract although complex is categorised into either “good” or “bad” bacteria.The good bacteria or “gut flora” performs a multitude of tasks including neutralising the toxic byproducts of your digestion, preventing growth of harmful pathogenic bacteria, controlling metabolism, reducing harmful substances within your body and gathering and absorbing nutrients from food.
 
@@ -25,7 +25,7 @@ Too much of the bad bacteria can lead to illness, overeating, metabolic damage a
 Antibiotics can have a major impact on the ratio of good to bad bacteria in our gut. Whilst antibiotics can be vital to treating certain conditions they do not come without their side effects. Whilst they are designed to kill of the bad bacteria unfortunately they will also have a detrimental effect on the good bacteria.
 
 **How important are prebiotics and probiotics? What’s the best way we should be consuming them?**
-They are both important. Probiotic rich foods, such as sauerkraut, kimchi and cultured vegetables are going to help our inner-plants flourish and grow. Prebiotics are the foods that act as a fertiliser to help feed, fuel and nourish probiotics. 
+They are both important. Probiotic rich foods, such as sauerkraut, kimchi and cultured vegetables are going to help our inner-plants flourish and grow. Prebiotics are the foods that act as a fertiliser to help feed, fuel and nourish probiotics.
 
 Prebiotics play a major role in promoting the growth of beneficial bacteria in the gut and are incredibly important in helping protect and rebuild within the intestinal walls. Foods rich in prebiotic fibre include jicama (Mexican yam), dandelion greens, asparagus, onions, garlic, chicory root, cashews, pistachios, lentils, kidney beans, and Jerusalem artichoke.
 
@@ -58,4 +58,4 @@ Root vegetables, like parsnips, carrots and sweet potatoes are naturally gluten-
 
 Including more ginger, in your diet is a powerful ally for supercharging your gut and contains additional anti-inflammatory and anti-bacterial compounds which block inflammation-producing genes, keeping your tummy happy, healthy and inflammation-free.
 
-Garlic is another wonder-food that can help combat sickness, high blood pressure and gut issues. Garlic can help detoxify the body from heavy metals too. I mean, if you’re looking for an excuse to eat garlic bread, this is it. Just replace the Supermarket white bread with a piece of my Golden Gut Pumpkin and Nut Loaf.
+Garlic is another wonder-food that can help combat sickness, high blood pressure and gut issues. Garlic can help detoxify the body from heavy metals too. I mean, if you’re looking for an excuse to eat garlic bread, this is it. Just replace the Supermarket white bread with a piece of my [Golden Gut Pumpkin and Nut Loaf](https://www.superchargedfood.com/blog/dairy-free-themes/golden-gut-pumpkin-and-nut-loaf/).
