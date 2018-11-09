@@ -25,21 +25,31 @@ Too much of the bad bacteria can lead to illness, overeating, metabolic damage a
 Antibiotics can have a major impact on the ratio of good to bad bacteria in our gut. Whilst antibiotics can be vital to treating certain conditions they do not come without their side effects. Whilst they are designed to kill of the bad bacteria unfortunately they will also have a detrimental effect on the good bacteria.
 
 **How important are prebiotics and probiotics? What’s the best way we should be consuming them?**
+
+
 They are both important. Probiotic rich foods, such as sauerkraut, kimchi and cultured vegetables are going to help our inner-plants flourish and grow. Prebiotics are the foods that act as a fertiliser to help feed, fuel and nourish probiotics.
 
 Prebiotics play a major role in promoting the growth of beneficial bacteria in the gut and are incredibly important in helping protect and rebuild within the intestinal walls. Foods rich in prebiotic fibre include jicama (Mexican yam), dandelion greens, asparagus, onions, garlic, chicory root, cashews, pistachios, lentils, kidney beans, and Jerusalem artichoke.
 
 **What are some diseases we can prevent by taking care of our gut?**
+
+
 Some of the diseases which can be helped with good gut health are abnormal immune responses, allergies, intolerances and autoimmune diseases as well as IBS and IBD.
 
 **Tell us a bit about the relationship between gut health and energy levels**
+
+
 Over time, the intestines can have a build up of waste products and toxins, such as plaque, acids, mucus, fungus and bacteria, causing distress in the digestive system! This can result in poor nutrient absorption and a build up of gas, wind and bloating – Bleugh! As well as low energy levels- as your body needs energy to digest food, the easier things are to digest, the more energy your body will have and also you will be able to better absorb nutrient from your food which in turn provides the body with more energy.
 
 **What does sugar do to our health?**
+
+
 Sugar can feed the bad bacteria in the microbiome and also is inflammatory to the body. Cutting down on processed white sugar can improve your gut health. Sugar is also connected to hormones and one of the simple ways to support gut hormones is to avoid a processed food diet with an excess of
 sugar and refined carbohydrates.
 
 **We’d love to hear about your petition to improve the food in hospitals**
+
+
 I created a petition because the food which is being served in NSW public hospitals is severely lacking in nutrition, highly processed and contains health impeding artificial chemicals, preservatives and additives.
 
 I was shocked and horrified to discover the diabolical state of the food being offered in NSW public hospitals when I visited my brother-in-law. His typical breakfast was powdered eggs, a white roll and cornflakes. Morning tea was a package of Arnotts biscuits, lunch and dinner involved white bread with trans-fat butter substitute sachet, soup so salty that affected his sodium levels, frozen vegetables and microwaved crumbed meat and was always accompanied by a sugar filled processed desert and processed juice with additional sugar and additives. The food was unappetising and not nutritionally sustaining, it was sugar laden and 100 % processed so it fuelled my passions to try and help change the foods that are served in hospitals.
