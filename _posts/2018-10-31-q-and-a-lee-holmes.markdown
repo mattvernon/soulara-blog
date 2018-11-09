@@ -2,7 +2,7 @@
 title: 'Q&A: Lee Holmes'
 date: 2018-10-31 21:53:00 +11:00
 published: false
-Main Image: "/uploads/Murdoch%20Books%20LYG%20Cover%20Shoot_by_Luisa%20Brimble-113%20SI.jpg"
+Main Image: "/uploads/Lee%20edited_-d0eadc.jpg"
 ---
 
 Lee Holmes of [Supercharged Food](https://www.superchargedfood.com/) is a mom, certified health coach and author of the best-selling Supercharged Food series who has successfully used food as medicine to overcome an autoimmune disease. Sitting down to food with a mindful, conscious approach is a personal philosophy that Lee lives by and she has been travelling around Australia to educate individuals that cultivating good gut health doesn't mean we need to compromise on health or taste. Lee speaks to us about the basic blocks of good gut health and how a healthy gut is vital to a balanced life.
