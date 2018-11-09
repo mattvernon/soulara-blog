@@ -12,7 +12,7 @@ After being diagnosed with an autoimmune disease and fibromyalgia several years 
 
 I created my blog Supercharged Food to share my story, create simple recipes and connect with people. I also have gut health products too over here: www.superchargeyourgut.com
 
-**What made you want to focus on gut health? **
+**What made you want to focus on gut health?**
 
 I had my own issues with gut health so it became my area of passion. Our gut and digestive system is cleverer than we think. The gut controls how we digest food, protects us from bacteria and is responsible for sending signals to the brain about hunger and emotions. Healing your gut brings benefit to the whole body.
 
