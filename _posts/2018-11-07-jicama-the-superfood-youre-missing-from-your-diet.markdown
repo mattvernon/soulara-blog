@@ -1,7 +1,6 @@
 ---
 title: 'Jicama: The superfood you’re missing from your diet'
 date: 2018-11-07 17:01:00 +11:00
-published: false
 Main Image: "/uploads/jicama-875254.jpg"
 ---
 
