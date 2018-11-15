@@ -13,24 +13,24 @@ Jicama is a round root vegetable with a coarse brown skin and a bright starchy w
 Charged with vitamin B6, Jicama improves brain function and cognitive activity. The B vitamin compounds in jicama helps carry oxygenated blood to your brain which increases alertness and concentration levels.
 
 **Good for your gut:**
-Jicama is full of prebiotic fibre. Prebiotic foods increase the number of good bacteria in your gut, which will reduce your chances of developing many diseases that start from the gut such as type 2 diabetes, heart disease, and kidney disease, to name a few
+Jicama is rich in prebiotic fibre. Prebiotic foods increase the number of good bacteria in your gut, which will reduce your chances of developing diseases that start from the gut, such as type 2 diabetes, heart disease, and kidney disease, to name a few.
 
 **Vitamin C superhero:**
-Jicama is high in vitamin C. Vitamin C is one of those common vitamins that people associate with preventing and fighting colds, but there is so much more to this vitamin. Vitamin C is vital to the development and growth of cell tissue, for absorbing iron, to aid the healing of wounds and so much more - wonderfully, jicama is full of it!
+Vitamin C is one of those common vitamins that people associate with preventing and fighting colds, but there is much more to this vitamin than meets the eye. Vitamin C is vital to the development and growth of cell tissue, for absorbing iron, the healing of wounds and so much more - wonderfully, jicama is full of it!
 
 **Nutrient powerhouse:**
-Bursting with high amounts of folate, iron, potassium, vitamin B6, and magnesium, jicama is completely on your side when it comes to your health. It is also packed with calcium, zinc, thiamine, riboflavin, vitamin E,  pantothenic acid, phosphorus, zinc and copper.
+Bursting with high amounts of folate, iron, potassium, vitamin B6, and magnesium, jicama is completely on your side when it comes to your health. It is also packed with calcium, zinc, thiamine, riboflavin, vitamin E,  pantothenic acid, phosphorus, zinc and copper. 
 
 **Free radical fighting:**
-This root vegetable is super high in antioxidants which prevent and repair cell damage. Great for skin elasticity and fighting off toxicities in the body, antioxidants are are pillar component to your wellbeing.
+This root vegetable is super high in antioxidants which prevent and repair cell damage. Great for skin elasticity and fighting off toxicities in the body, antioxidants are essential to your wellbeing.
 
 **Weight loss friendly:**
-Jicama is a low calorie, high fibre food which means it can actually aid weight loss. It is filling and slows your digestion and won’t give you that blood sugar spike. It will keep you fuller for longer so you won’t feel like snacking and grazing in between meals.
+Jicama is a low calorie, high fibre food which means it can actually aid weight loss. It is filling, slows your digestion and won’t give you that blood sugar spike. It'lll keep you fuller for longer, so you won’t feel like snacking and grazing in between meals.
 
 **But how do I eat it?:**
 Jicama is so versatile, you can eat it raw or cooked but an important thing to keep in mind is that everything besides the white inside is toxic, so be sure to discard the skin, leaves, roots, pods and seeds before eating.
 
-We love this superfood so much that we’ve incorporated it into many of our meals in our new menu. There are no limits to your jicama creations but here are a few that we can’t get enough of:
+We love this superfood so much that we’ve incorporated it into many of the meals in our new menu. There are no limits to your jicama creations but here are a few that we can’t get enough of:
 
 * Adding it to salads or coleslaw: Slice it into tiny cubes or thin twigs and add to all your salads.
 
@@ -40,4 +40,4 @@ We love this superfood so much that we’ve incorporated it into many of our mea
 
 * Chippies: Jicama chips will be your new best friend. Cut into long rectangles, place onto baking paper covered tray, drizzle with olive oil and celtic salt and pop into a 180℃ oven, turning every 15-20 minutes until crisp.
 
-Once you try this wellness allrounder, you’re likely to incorporate it into every meal. Jicama is mostly found in South American and Asian grocers but keep your eyes peeled because once popularity grows, our supermarkets and grocers will soon catch up.
+Once you try this wellness all-rounder, you’ll want to throw it into every meal. Jicama is mostly found in South American and Asian grocers but keep your eyes peeled because once popularity grows, our supermarkets and grocers will soon catch up.
