@@ -10,19 +10,19 @@ If you’ve never heard of jicama, you’re not alone. This largely underrated v
 
 Jicama is a round root vegetable with a coarse brown skin and a bright starchy white interior. Originally from Mexico, it is also known as the ‘mexican yam’, ‘yam bean’ and ‘mexican potato/turnip’. At first glance, it might even look like a bulous potato or turnip. 
 
-**Brain Booster**
+**Brain booster**
 
 Charged with vitamin B6, Jicama improves brain function and cognitive activity. The B vitamin compounds in jicama help carry the oxygenated blood to your brain to increase alertness and concentration levels. 
 
-**Good for Your Gut**
+**Good for your gut**
 
 Jicama is full of prebiotic fibre. Prebiotic foods increase the number of good bacteria in your gut, which will reduce your chances of developing many diseases that start from the gut such as type 2 diabetes, heart disease, and kidney disease, to name a few 
 
-**Vitamin C Superhero**
+**Vitamin C superhero**
 
 Jicama is high in vitamin C. Vitamin C is one of those common vitamins that people associate with preventing and fighting colds, but there is so much more to this vitamin. Vitamin C is vital to the development and growth of cell tissue, for absorbing iron, to aid the healing of wounds and so much more - wonderfully, jicama is full of it!
 
-**Nutrient Powerhouse**
+**Nutrient powerhouse**
 
 Bursting with high amounts of folate, iron, potassium, vitamin B6, and magnesium, jicama is completely on your side when it comes to your health. It is also packed with calcium, zinc, thiamine, riboflavin, vitamin E,  pantothenic acid, phosphorus, zinc and copper.
 
