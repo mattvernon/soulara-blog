@@ -40,4 +40,4 @@ We love this superfood so much that we’ve incorporated it into many of the mea
 
 * Chippies: Jicama chips will be your new best friend. Cut into long rectangles, place onto baking paper covered tray, drizzle with olive oil and celtic salt and pop into a 180℃ oven, turning every 15-20 minutes until crisp.
 
-Once you try this wellness all-rounder, you’ll want to throw it into every meal. Jicama is mostly found in South American and Asian grocers but keep your eyes peeled because once popularity grows, our supermarkets and grocers will soon catch up.
+Once you try this wellness all-rounder, you’ll want to throw it into every meal. Jicama is mostly found in South American and Asian grocers but keep your eyes peeled because once popularity grows, our supermarkets and grocers will catch up too.
