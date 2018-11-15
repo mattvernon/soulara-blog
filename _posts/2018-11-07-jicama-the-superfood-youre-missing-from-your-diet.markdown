@@ -4,7 +4,7 @@ date: 2018-11-07 17:01:00 +11:00
 Main Image: "/uploads/jicama-875254.jpg"
 ---
 
-If you’ve never heard of jicama, you’re not alone. This largely underrated vegetable hasn’t fallen into the buzzword health food category just yet, but Jicama is one of those superfoods, which will spark a *where have you been all my life* reaction once you uncover all its many health benefits.
+If you’ve never heard of jicama, you’re not alone. This largely underrated vegetable hasn’t fallen into the buzzword health food category just yet, but Jicama is one of those superfoods, which will spark a *where have you been all my life* reaction once you uncover all its health benefits.
 
 **What is Jicama?:**
 Jicama is a round root vegetable with a coarse brown skin and a bright starchy white interior. Originally from Mexico, it is also known as the ‘mexican yam’, ‘yam bean’ and ‘mexican potato/turnip’. At first glance, it might even look like a bulous potato or turnip.
