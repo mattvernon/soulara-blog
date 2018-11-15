@@ -4,13 +4,13 @@ date: 2018-11-07 17:01:00 +11:00
 Main Image: "/uploads/jicama-875254.jpg"
 ---
 
-If you’ve never heard of jicama, you’re not alone. This largely underrated vegetable hasn’t fallen into the buzzword health food category just yet, but Jicama is one of those superfoods, which will spark a *where have you been all my life* reaction once you uncover all its health benefits.
+If you’ve never heard of jicama, you’re not alone. This largely underrated vegetable hasn’t fallen into the buzzword health food category just yet. However Jicama is one of those superfoods, which will spark a *where have you been all my life* reaction once you uncover all its health benefits.
 
 **What is Jicama?:**
 Jicama is a round root vegetable with a coarse brown skin and a bright starchy white interior. Originally from Mexico, it is also known as the ‘mexican yam’, ‘yam bean’ and ‘mexican potato/turnip’. At first glance, it might even look like a bulous potato or turnip.
 
 **Brain booster:**
-Charged with vitamin B6, Jicama improves brain function and cognitive activity. The B vitamin compounds in jicama help carry the oxygenated blood to your brain to increase alertness and concentration levels.
+Charged with vitamin B6, Jicama improves brain function and cognitive activity. The B vitamin compounds in jicama helps carry oxygenated blood to your brain which increases alertness and concentration levels.
 
 **Good for your gut:**
 Jicama is full of prebiotic fibre. Prebiotic foods increase the number of good bacteria in your gut, which will reduce your chances of developing many diseases that start from the gut such as type 2 diabetes, heart disease, and kidney disease, to name a few
