@@ -27,9 +27,9 @@ When we eat a lot of junk food, it creates a new feeling of normal that is never
 
 ### **Anxiety and depression...**
 
-Junk food is virtually absent of omega-3 fatty acids. To best obtain the benefits of omega-3, it needs to be absorbed through the foods we eat. If you aren’t getting enough omega-3 in your regular diet, your brain mirrors the symptoms of anxiety. 
+Junk food is virtually absent of omega-3 fatty acids. To best obtain the benefits of omega-3, it needs to be absorbed through the foods we eat. If you aren’t getting enough omega-3 in your regular diet, your brain mirrors the symptoms of anxiety.
 
-According to neuroscientist Dr Amy Reichelt, eating junk food reduces the birth of new neurons in the brain. When new neurons aren’t being produced at the rate that they should be, this can cause depression. 
+According to neuroscientist Dr Amy Reichelt, eating junk food reduces the birth of new neurons in the brain. When new neurons aren’t being produced at the rate that they should be, this can cause depression.
 
 ### **Forget me not...**
 
@@ -45,10 +45,10 @@ Kristina Isouard says “This addiction-like brain change is reversible. When yo
 
 Although the effects of junk food on our brain can be frightening, the good news is that you can work towards reversing it right away. Here are some foods that help boost your brain health and undo the junk-food damage.
 
-**Walnuts: **They’re shaped like a brain, and they help steer you away from diseases such as Alzheimer's by boosting your vitamin E levels.\
+**Walnuts:** They’re shaped like a brain, and they help steer you away from diseases such as Alzheimer's by boosting your vitamin E levels.
 
-**Fatty fish:** Salmon is full of omega-3 fatty acids, giving your brain the boost it needs to improve cognitive function and memory.\
+**Fatty fish:** Salmon is full of omega-3 fatty acids, giving your brain the boost it needs to improve cognitive function and memory.
 
-**Blueberries:** Bursting with antioxidants, these little blue heros fight free radicals in your brain and protect the brain from stress.\
+**Blueberries:** Bursting with antioxidants, these little blue heros fight free radicals in your brain and protect the brain from stress.
 
-**Hemp seeds:** Full of omega fatty acids and vitamin E, hemp seeds are a simple brain-enhancing food you can sprinkle on everything from yoghurt and granola, to your morning toast, and even ice cream.\
+**Hemp seeds:** Full of omega fatty acids and vitamin E, hemp seeds are a simple brain-enhancing food you can sprinkle on everything from yoghurt and granola, to your morning toast, and even ice cream.
