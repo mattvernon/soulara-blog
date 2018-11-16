@@ -1,7 +1,6 @@
 ---
 title: 6 Tips for Healing Your Gut
 date: 2018-11-02 16:31:00 +11:00
-published: false
 Main Image: "/uploads/onioncropped.jpg"
 ---
 
@@ -31,4 +30,4 @@ Sugar can feed the bad bacteria in the microbiome and also is inflammatory to th
 
 Probiotic-rich foods, such as sauerkraut, kimchi and cultured vegetables are going to help our inner-plants flourish and grow and prebiotics are the foods that act as a fertiliser to help feed, fuel and nourish probiotics. Prebiotics play a major role in promoting the growth of beneficial bacteria in the gut and are incredibly important in helping protect and rebuild within the intestinal walls. Foods rich in prebiotic fiber include jicama (Mexican yam), dandelion greens, asparagus, onions, garlic, chicory root, cashews, pistachios, lentils, kidney beans, and Jerusalem artichoke.
 
-Check out Lee Holmes’ journey, books and recipes at www.superchargedfood.com
+Check out Lee Holmes’ journey, books and recipes at [Supercharged Food](www.superchargedfood.com). 
