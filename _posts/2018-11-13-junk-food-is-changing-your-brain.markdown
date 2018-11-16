@@ -48,7 +48,7 @@ Although the effects of junk food on our brain can be frightening, the good news
 **Walnuts: **They’re shaped like a brain, and they help steer you away from diseases such as Alzheimer's by boosting your vitamin E levels.\
 
 **Fatty fish:** Salmon is full of omega-3 fatty acids, giving your brain the boost it needs to improve cognitive function and memory.\
-\
+
 **Blueberries:** Bursting with antioxidants, these little blue heros fight free radicals in your brain and protect the brain from stress.\
 
-**Hemp seeds:** Full of omega fatty acids and vitamin E, hemp seeds are a simple brain-enhancing food you can sprinkle on everything from yoghurt and granola, to your morning toast, and even ice cream.
+**Hemp seeds:** Full of omega fatty acids and vitamin E, hemp seeds are a simple brain-enhancing food you can sprinkle on everything from yoghurt and granola, to your morning toast, and even ice cream.\
