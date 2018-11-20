@@ -1,5 +1,5 @@
 ---
-title: Junk food is actually changing your brain
+title: 'Warning: Junk food is changing your brain'
 date: 2018-11-13 10:07:00 +11:00
 published: false
 categories:
