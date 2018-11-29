@@ -1,5 +1,5 @@
 ---
-title: 'Sage : The wonder-herb for your brain'
+title: 'Sage: The wonder-herb for your brain'
 date: 2018-11-21 13:43:00 +11:00
 categories:
 - Food
