@@ -1,5 +1,5 @@
 ---
-title: 'Sage: The wonder-herb for your brain'
+title: 'Sage: The Brain Hero'
 date: 2018-11-21 13:43:00 +11:00
 categories:
 - Food
@@ -10,9 +10,9 @@ People have been turning to herbs for health and medicine for thousands of years
 
 Sage is usually known for its cleansing spaces and balancing energies, however this wonder-herb does so much more.
 
-**Brain Booster**
-
-In latin, Sage (Salvia officinalis) means ‘to heal’. Sage has been the highlight of ancient proverbs and sayings for centuries, and for good reason. According to Adrian L. Lopresti, School of Psychology and Exercise Science, Murdoch University, ”Salvia plants are traditionally noted for their antioxidant effects and ability to enhance ‘head and brain’ function, improve memory, quicken the senses, and delay age-associated cognitive decline”. They are huge benefits, from one little herb.
+**Brain Booster**\
+\
+Sage has been the highlight of ancient proverbs and sayings for centuries, and for good reason. According to Adrian L. Lopresti, School of Psychology and Exercise Science, Murdoch University, "Salvia plants are traditionally noted for their antioxidant effects and ability to enhance ‘head and brain’ function, improve memory, quicken the senses, and delay age-associated cognitive decline”. They are huge benefits, from one little herb.
 
 **How It Works Its Magic**
 
@@ -34,4 +34,4 @@ There are so many ways to consume this wonder-herb.
 
 **Tea/Water infusion:** Similar to the tincture, the infusion is brewed in hot water in a covered container for a minimum time of 15 minutes but up to 24 hours for a strong infusion.
 
-**Smell: **The effects of many herbs can often be brought on simply smelling them. In this case, smelling sage essential oil is calming and relaxing.
+\*\*Smell: \*\*The effects of many herbs can often be brought on simply smelling them. In this case, smelling sage essential oil is calming and relaxing.
