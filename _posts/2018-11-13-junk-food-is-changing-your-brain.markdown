@@ -1,5 +1,5 @@
 ---
-title: 'Warning: How Junk food is changing your brain'
+title: How Junk food is changing your brain
 date: 2018-11-13 10:07:00 +11:00
 categories:
 - Health
