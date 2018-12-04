@@ -11,7 +11,7 @@ tags:
 - nutrition
 - sugar
 - vegan
-Main Image: "/uploads/desktop-3324404_1920.jpg"
+Main Image: "/uploads/Lollies_blog.jpg"
 ---
 
 Mental health issues such as anxiety and depression are on the rise. Our fast-paced, stressful lifestyles are partly to blame but the connection between what we eat and our mental health, is often overlooked as a culprit.
