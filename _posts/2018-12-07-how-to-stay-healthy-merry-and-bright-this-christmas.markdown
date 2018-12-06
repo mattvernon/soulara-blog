@@ -9,7 +9,7 @@ Staying healthy during the holiday season is easier said than done. With continu
 
 1. **Drink more water: **With all the extra food we tend to consume over the holiday period, and not to mention the summertime heat, the biggest thing we need to stay on top of is our hydration. Keep a water bottle with you in your bag and stay hydrated throughout the day. It will also help keep your energy levels up. You can add some fresh strawberries or citrus fruits to your water, to give it that holiday cheer.
 
-2. **Play a drinking game (with yourself): **It may not be the kind of drinking game you had in mind but it’s one that will help relieve the strain that alcohol puts on your body and will even help ward off hangovers. Swap every second drink, for water. It can be sparkling water with a splash of lime, but make sure every second drink is H2O.
+2. **Play a drinking game (with yourself):** It may not be the kind of drinking game you had in mind but it’s one that will help relieve the strain that alcohol puts on your body and will even help ward off hangovers. Swap every second drink, for water. It can be sparkling water with a splash of lime, but make sure every second drink is H2O.
 
 3. **The most important meal of the day: **Breakfast is the MVP of meals and even though our mornings can be busy, it’s one meal you should never skip. Having a wholesome and filling breakfast gets you on the right track for the rest of the day, and makes you less likely to reach for a candy cane at 10am.
 
@@ -21,9 +21,10 @@ Staying healthy during the holiday season is easier said than done. With continu
 
 7. **Pick your treats:** Eliminating yummy treats, is likely to turn you into a grinch. So instead, pick your treats carefully. If there are six cakes on offer at your Christmas lunch, have a slice of your favourite and fill the rest of your plate with fresh fruit. Remember when it comes to sweets, your eyes are bigger than your stomach.
 
-8. **The morning after: **(liver friendly foods from Kristina)
+8. \*\*The morning after: \*\*(liver friendly foods from Kristina)
 
-## \
+## \\
+
 The Perfect Mulled Wine
 
 ![mulled-claret-972827_1920.jpg](/uploads/mulled-claret-972827_1920.jpg)
