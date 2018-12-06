@@ -69,6 +69,7 @@ Eat a healthy balanced diet, move your body, stress less and surround yourself w
 
 ![IMG_6604-Edit HIGH RES_PRINT-2.jpeg](/uploads/IMG_6604-Edit%20HIGH%20RES_PRINT-2.jpeg)
 
-Dr Amy Reichelt can be found at [amyreichelt.com](http://amyreichelt.com/)\
+Dr Amy Reichelt can be found at [amyreichelt.com](http://amyreichelt.com/)
+
 **Twitter:** @TheAmyR\
 **Instagram:** @foodonthemind
