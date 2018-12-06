@@ -17,8 +17,9 @@ I’m fascinated by how our brains control our thoughts, behaviours and emotions
 
 I’ve always been interested in why certain behaviours can spiral out of control, and people can become addicted to substances, but then that got me thinking about food… We need food to live, but our world is full of highly refined, processed foods that are effectively synthesised to hit us right in our sweet spot – our brains. Many drugs of abuse are originally from nature, think the coca plant that can be refined to cocaine. In a similar way foods can be refined and manufactured to be as tasty as possible, making us want more and more, leading to uncontrolled eating.
 
-\*\*\*Away from work, what inspires you on a daily basis? Do you have any daily rituals you use to anchor your day?\
-\*\*\*\
+\
+***Away from work, what inspires you on a daily basis? Do you have any daily rituals you use to anchor your day?***\
+\
 I’m driven by curiosity in all aspects of life, I love finding out about how things work and what is happening in the world. \
 \
 I always get up and make coffee in the morning! My job is busy, starts early and I can end up working very late. I’m a big believer in breakfast though, it’s the best way to kick my brain into gear with some protein – you need it to make neurotransmitters! I love getting out into nature and taking my dog, Frank, out for walks. He’s a miniature dachshund so he’s only got little legs, but I always take him for a morning stroll so he can sniff around and say good morning to the neighbourhood dogs. I work out at my local CrossFit 3-4 times a week. I love the community spirit and varied workouts.
@@ -32,8 +33,9 @@ Our brain is a hungry organ – The average human brain comprises of only 2% of 
 \
 Diets high in refined sugars and saturated fats are harmful to the brain, which can change how we process events that happen to us, and shift our moods. These diets also increase inflammation and oxidative stress in the body, which extends to the brain. Multiple studies have found a correlation between a diet high in refined sugars and impaired brain function — and even a worsening of symptoms of mood disorders, such as depression.
 
-\*\*\*What sorts of foods promote a healthy brain?\
-\*\*\*\
+\
+***What sorts of foods promote a healthy brain?***\
+\
 A varied, balanced diet promotes a healthy brain. Your brain needs omega-3 fatty acids to maintain brain cells (neurons) structurally - oily fish, flaxseeds, walnuts and chia seeds are good sources of omega-3’s. As a result, diets high in omega-3s may slow cognitive decline and could decrease the incidence of dementia.\
 \
 Eating high-quality foods that contain lots of vitamins, minerals, and antioxidant chemicals like flavonoids, act to nourish the brain and protects it from oxidative stress — the “waste” (free radicals) produced when the body uses oxygen, which can damage cells, and can also occur from living in a polluted urban environment.
@@ -66,19 +68,5 @@ Eat a healthy balanced diet, move your body, stress less and surround yourself w
 
 \
 *Dr Amy Reichelt can be found at *[amyreichelt.com](http://amyreichelt.com/)\
-Twitter: @TheAmyR\
-Instagram: @foodonthemind
-
-\
-\
-\
-\
-\
-\
-\
-\*\*\
-\*\*\
-\
-\
-\
-\\
+**Twitter:** @TheAmyR\
+**Instagram:** @foodonthemind
