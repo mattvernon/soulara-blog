@@ -2,6 +2,12 @@
 title: Boost your brain, with Dr Reichelt
 date: 2018-11-30 08:59:00 +11:00
 published: false
+tags:
+- brain health
+- wellness
+- stress
+- health
+- mental health
 Main Image: "/uploads/walnut-3072681_1920.jpg"
 Field name:
   Key: 
@@ -41,9 +47,9 @@ Some key foods that can be great for your brain include berries and the spice tu
 
 ***What food gives us more energy and alertness?***
 
-COFFEE! Okay, you might not drink coffee as much as I do, but caffeine is scientifically proven to enhance mental alertness, increase energy and also improve focus. Green tea is another great cognitive stimulant – it contains both caffeine and the amino acid L-theanine, which is important for producing the neurotransmitter GABA. Increasing GABA in the brain can promote mental clarity and relaxation. So green tea can give you a less jitters if you are sensitive to caffeine. Other foods that can make us feel more alert include dark chocolate (again, it has caffeine in but also flavonoids that are antioxidants).\*\*
+COFFEE! Okay, you might not drink coffee as much as I do, but caffeine is scientifically proven to enhance mental alertness, increase energy and also improve focus. Green tea is another great cognitive stimulant – it contains both caffeine and the amino acid L-theanine, which is important for producing the neurotransmitter GABA. Increasing GABA in the brain can promote mental clarity and relaxation. So green tea can give you a less jitters if you are sensitive to caffeine. Other foods that can make us feel more alert include dark chocolate (again, it has caffeine in but also flavonoids that are antioxidants).
 
-*How does sugar and processed foods affect the brain?*\*\*
+***How does sugar and processed foods affect the brain?***
 
 Sugar and highly processed foods tend to be low quality, and not nutritious. These foods have a detrimental impact on the brain in a variety of ways.
 
