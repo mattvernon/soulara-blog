@@ -2,7 +2,7 @@
 title: Boost your brain, with Dr Reichelt
 date: 2018-11-30 08:59:00 +11:00
 published: false
-Main Image: "/uploads/IMG_6604-Edit%20HIGH%20RES_PRINT-2.jpeg"
+Main Image: "/uploads/walnut-3072681_1920.jpg"
 Field name:
   Key: 
 ---
@@ -65,6 +65,8 @@ Alcohol works in the brain by increasing the effects of inhibitory neurotransmit
 ***How can we start improving our brain health right away?***\
 \
 Eat a healthy balanced diet, move your body, stress less and surround yourself with good people.
+
+![IMG_6604-Edit HIGH RES_PRINT-2.jpeg](/uploads/IMG_6604-Edit%20HIGH%20RES_PRINT-2.jpeg)
 
 \
 *Dr Amy Reichelt can be found at *[amyreichelt.com](http://amyreichelt.com/)\
