@@ -21,11 +21,11 @@ Staying healthy during the holiday season is easier said than done. With continu
 
 7. **Pick your treats:** Eliminating yummy treats, is likely to turn you into a grinch. So instead, pick your treats carefully. If there are six cakes on offer at your Christmas lunch, have a slice of your favourite and fill the rest of your plate with fresh fruit. Remember when it comes to sweets, your eyes are bigger than your stomach.
 
-8. \*\*The morning after: \*\*(liver friendly foods from Kristina)
+8. **The morning after:** (liver friendly foods from Kristina)
 
-## \\
+## 
 
-The Perfect Mulled Wine
+## The Perfect Mulled Wine
 
 ![mulled-claret-972827_1920.jpg](/uploads/mulled-claret-972827_1920.jpg)
 
