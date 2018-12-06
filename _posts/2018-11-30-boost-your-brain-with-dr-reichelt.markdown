@@ -33,19 +33,19 @@ Our brain is a hungry organ – The average human brain comprises of only 2% of 
 
 Diets high in refined sugars and saturated fats are harmful to the brain, which can change how we process events that happen to us, and shift our moods. These diets also increase inflammation and oxidative stress in the body, which extends to the brain. Multiple studies have found a correlation between a diet high in refined sugars and impaired brain function — and even a worsening of symptoms of mood disorders, such as depression.
 
-\
-***What sorts of foods promote a healthy brain?***\
-\
-A varied, balanced diet promotes a healthy brain. Your brain needs omega-3 fatty acids to maintain brain cells (neurons) structurally - oily fish, flaxseeds, walnuts and chia seeds are good sources of omega-3’s. As a result, diets high in omega-3s may slow cognitive decline and could decrease the incidence of dementia.\
-\
+
+***What sorts of foods promote a healthy brain?***
+
+A varied, balanced diet promotes a healthy brain. Your brain needs omega-3 fatty acids to maintain brain cells (neurons) structurally - oily fish, flaxseeds, walnuts and chia seeds are good sources of omega-3’s. As a result, diets high in omega-3s may slow cognitive decline and could decrease the incidence of dementia.
+
 Eating high-quality foods that contain lots of vitamins, minerals, and antioxidant chemicals like flavonoids, act to nourish the brain and protects it from oxidative stress — the “waste” (free radicals) produced when the body uses oxygen, which can damage cells, and can also occur from living in a polluted urban environment.
 
 Some key foods that can be great for your brain include berries and the spice turmeric. Berries, particularly blueberries, are rich in the the flavonoid anthocyanin, an antioxidant to help fight against the oxidative stress that damages neurons. Turmeric is the curry spice that gives Indian foods their bright yellow colour. Turmeric contains curcumin, an anti-inflammatory noted for treating arthritis. Curcumin can also exert anti-inflammatory actions in the brain and may be protective against Alzheimer’s disease.
 
 ***What food gives us more energy and alertness?***
 
-COFFEE! Okay, you might not drink coffee as much as I do, but caffeine is scientifically proven to enhance mental alertness, increase energy and also improve focus. Green tea is another great cognitive stimulant – it contains both caffeine and the amino acid L-theanine, which is important for producing the neurotransmitter GABA. Increasing GABA in the brain can promote mental clarity and relaxation. So green tea can give you a less jitters if you are sensitive to caffeine. Other foods that can make us feel more alert include dark chocolate (again, it has caffeine in but also flavonoids that are antioxidants).**\
-\
+COFFEE! Okay, you might not drink coffee as much as I do, but caffeine is scientifically proven to enhance mental alertness, increase energy and also improve focus. Green tea is another great cognitive stimulant – it contains both caffeine and the amino acid L-theanine, which is important for producing the neurotransmitter GABA. Increasing GABA in the brain can promote mental clarity and relaxation. So green tea can give you a less jitters if you are sensitive to caffeine. Other foods that can make us feel more alert include dark chocolate (again, it has caffeine in but also flavonoids that are antioxidants).**
+
 *How does sugar and processed foods affect the brain?***
 
 Sugar and highly processed foods tend to be low quality, and not nutritious. These foods have a detrimental impact on the brain in a variety of ways.
@@ -54,16 +54,16 @@ Diets that are high in refined sugar and saturated fats can cause inflammation i
 
 But why do we keep eating these foods when we know they are bad for us? High sugar and processed foods are very rewarding, our brain releases the chemical dopamine, which gives us a kick from eating these foods, our brain makes us want more. But if we do give into these urges and eat these foods regularly, our brain adapts to this new standard level of food reward, so we have to eat more of these foods to get the same kick. This then sets about more damaging conditions.
 
-***What is the ideal brain-health diet?***\
-\
+***What is the ideal brain-health diet?***
+
 Eating high-quality foods that contain lots of vitamins, minerals, and antioxidants, these nourish the brain and protects it from the oxidative stress that can damage cells. Processed foods are often stripped of their nutrients, and have excessive additives like salt, sugar and maltodextrin added to them to make them taste “better”. We know that sugar (particularly fructose) is damaging for the body, and it also damages neurons, so avoiding refined sugars is really important. Although fruits contain a lot of the fruit sugar fructose, they also have lots of fibre when consumed in the whole form (i.e. not juiced), this slows the absorption of sugar into the bloodstream. Fibre is also important for our gut microbiota, these are the microbes that live in our digestive system. By ‘feeding” our gut microbiome with nutritious, fibrous foods they can process bioactive molecules that can enhance neurotransmitter production, and regulate hormone signals. A balanced diet with lots of soluble fibre in also encourages “good” bacteria to colonise our digestive system, which help to keep our brain healthy.
 
-***Alcohol seems like it would be a sure thing when it comes to damaging the brain, but is all alcohol consumption bad for us?***\
-\
+***Alcohol seems like it would be a sure thing when it comes to damaging the brain, but is all alcohol consumption bad for us?***
+
 Alcohol works in the brain by increasing the effects of inhibitory neurotransmitter GABA, and reducing the activity of the excitatory neurotransmitter glutamate. This causes our neurons to not communicate together efficiently, causing the cognitive slowing associated with being drunk. Prolonged excessive alcohol consumption is very bad for the brain, this really long term consumption can cause a type of dementia called Korsakoff’s syndrome, and is sometimes seen in alcoholism. But in general small amounts of alcohol aren’t particularly detrimental to the brain in the long term. Red wine contains resveratrol, an antioxidant which might be neuroprotective to some extent. Many people choose to have a glass of wine with dinner or to help them relax, which has mood boosting properties. Premixed drinks and many cocktails often contain a lot of sugar, so are best avoided on the grounds that the sugar is bad for your brain, particularly if you binge drink a lot of them at night.
 
-***How can we start improving our brain health right away?***\
-\
+***How can we start improving our brain health right away?***
+
 Eat a healthy balanced diet, move your body, stress less and surround yourself with good people.
 
 ![IMG_6604-Edit HIGH RES_PRINT-2.jpeg](/uploads/IMG_6604-Edit%20HIGH%20RES_PRINT-2.jpeg)
