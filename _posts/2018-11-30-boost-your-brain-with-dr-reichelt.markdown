@@ -17,20 +17,20 @@ I’m fascinated by how our brains control our thoughts, behaviours and emotions
 
 I’ve always been interested in why certain behaviours can spiral out of control, and people can become addicted to substances, but then that got me thinking about food… We need food to live, but our world is full of highly refined, processed foods that are effectively synthesised to hit us right in our sweet spot – our brains. Many drugs of abuse are originally from nature, think the coca plant that can be refined to cocaine. In a similar way foods can be refined and manufactured to be as tasty as possible, making us want more and more, leading to uncontrolled eating.
 
-\
-***Away from work, what inspires you on a daily basis? Do you have any daily rituals you use to anchor your day?***\
-\
-I’m driven by curiosity in all aspects of life, I love finding out about how things work and what is happening in the world. \
-\
+
+***Away from work, what inspires you on a daily basis? Do you have any daily rituals you use to anchor your day?***
+
+I’m driven by curiosity in all aspects of life, I love finding out about how things work and what is happening in the world. 
+
 I always get up and make coffee in the morning! My job is busy, starts early and I can end up working very late. I’m a big believer in breakfast though, it’s the best way to kick my brain into gear with some protein – you need it to make neurotransmitters! I love getting out into nature and taking my dog, Frank, out for walks. He’s a miniature dachshund so he’s only got little legs, but I always take him for a morning stroll so he can sniff around and say good morning to the neighbourhood dogs. I work out at my local CrossFit 3-4 times a week. I love the community spirit and varied workouts.
 
 ***Let’s get back to basics, how does what we eat affect our brain physically?***
 
 Our brain is a hungry organ – The average human brain comprises of only 2% of our body mass, but uses 20% of our energy, much more than expected for our relative brain size. The brain is always functioning, which means your brain requires a constant supply of fuel. Brain fuel comes from the foods you eat — and what’s in that fuel makes all the difference. Our brain doesn’t get fat if we eat high fat diets, in fact there are some imaging studies that show obesity actually leads to reductions in brain volume overall, which could be due to the loss of neurons. Of note, brain imaging studies have shown that poor diets can reduce the size of the key brain region involved in memory – the hippocampus. This is important because the hippocampus is vital for remembering daily events, and also receives a lot of signals from our gut in terms of how hungry or satisfied we are.
 
-\
-***How does what we eat affect our mental health?***\
-\
+
+***How does what we eat affect our mental health?***
+
 Diets high in refined sugars and saturated fats are harmful to the brain, which can change how we process events that happen to us, and shift our moods. These diets also increase inflammation and oxidative stress in the body, which extends to the brain. Multiple studies have found a correlation between a diet high in refined sugars and impaired brain function — and even a worsening of symptoms of mood disorders, such as depression.
 
 \
