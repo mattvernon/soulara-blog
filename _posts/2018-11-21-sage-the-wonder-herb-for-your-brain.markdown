@@ -32,6 +32,6 @@ There are so many ways to consume this wonder-herb.
 
 **Tincture:** A potent alcohol-based form of infusion where the herb is soaked in high-proof alcohol for 14 days or more. And then taken as drops.
 
-**Tea/Water infusion:** The easiest way to consume it, as a tea. Similar to the tincture, the infusion is brewed in hot water in a covered pot for a minimum time of 15 minutes but up to 24 hours for a strong infusion. You can even add a teaspoon of dried sage to your cup of tea (it's delicious!). 
+**Tea/Water infusion:** The easiest way to consume it, as a tea. Similar to the tincture, the infusion is brewed in hot water in a covered pot for a minimum time of 15 minutes but up to 24 hours for a strong infusion. You can even add a teaspoon of dried sage to your cup of tea (it's delicious!).
 
-**Smell: **The effects of many herbs can often be brought on simply smelling them. In this case, smelling sage essential oil is calming and relaxing.
+**Smell:** The effects of many herbs can often be brought on simply smelling them. In this case, smelling sage essential oil is calming and relaxing.
