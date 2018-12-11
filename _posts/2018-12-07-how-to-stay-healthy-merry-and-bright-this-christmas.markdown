@@ -21,7 +21,13 @@ Staying healthy during the holiday season is easier said than done. With continu
 
 7. **Pick your treats:** Eliminating yummy treats, is likely to turn you into a grinch. So instead, pick your treats carefully. If there are six cakes on offer at your Christmas lunch, have a slice of your favourite and fill the rest of your plate with fresh fruit. Remember when it comes to sweets, your eyes are bigger than your stomach.
 
-8. **The morning after:** (liver friendly foods from Kristina)
+8. **The morning after:** After a big night, what you eat the next morning can make or break how you feel. We chatted with  Kristina Isouard BSc, MSc (Nutrition) to give you the best morning after remedies.\
+   Kristina recommends filling your brekkie plate with: \
+   -  **Healthy carbs:** Like filling porridge, bircher musli or smoothie bowl with nut butter and berries. Choosing whole grains such as oats or buckwheat replenish your body with depleted minerals and B-vitamins. Healthy carbs counteract the fall in blood sugar.\
+   - **Protein for liver detox:** Scrambled tofu is rich in the amino acid cysteine. Cysteine helps break down acetaldehyde, which is a by-product of alcohol metabolism. In addition, tofu is a good source of minerals and the antioxidant selenium.\
+   - **Fluids: **Hydrate and flush out toxins with electrolyte rich coconut water, mineral water, green juices, watermelon and banana smoothies.\
+   - **Quality fats:** Avocado satisfies cravings and provides antioxidants such as vitamin E and C.\
+   - **Wonder ingredients: **Carrots (countering hangover), Dark leafy greens (anti-inflammatory, liver protective), Cabbage (countering alcohol, hangover), Banana (antioxidant, liver protective), Watermelon (antitoxic).
 
 ## 
 
