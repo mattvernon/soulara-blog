@@ -7,7 +7,7 @@ Field name:
 
 Staying healthy during the holiday season is easier said than done. With continuous feasts and parties, and not to mention all the candy canes and Christmas cookies, it’s hard to stayed focused on a healthy lifestyle. Here at Soulara HQ, we’ve come up with some tried-and-tested ways to feel amazing all summer, without missing out on all the fun.
 
-1. Drink more water: With all the extra food we tend to consume over the holiday period, and not to mention the summertime heat, the biggest thing we need to stay on top of is our hydration. Keep a water bottle with you in your bag and stay hydrated throughout the day. It will also help keep your energy levels up. You can add some fresh strawberries or citrus fruits to your water, to give it that holiday cheer.
+1. **Drink more water: **With all the extra food we tend to consume over the holiday period, and not to mention the summertime heat, the biggest thing we need to stay on top of is our hydration. Keep a water bottle with you in your bag and stay hydrated throughout the day. It will also help keep your energy levels up. You can add some fresh strawberries or citrus fruits to your water, to give it that holiday cheer.
 
 2. **Play a drinking game (with yourself):** It may not be the kind of drinking game you had in mind but it’s one that will help relieve the strain that alcohol puts on your body and will even help ward off hangovers. Swap every second drink, for water. It can be sparkling water with a splash of lime, but make sure every second drink is H2O.
 
