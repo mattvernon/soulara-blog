@@ -35,7 +35,7 @@ Hemp has a very low burning point so it is best consumed raw. You can eat them a
 
 **On your yoghurt or muesli:** In fact, sprinkle them on any type of brekkie or snack.
 
-**On toast or in your sandwich: **Hemp seeds make a great topping on your toast and can be added with the filling in any sandwich.
+**On toast or in your sandwich:** Hemp seeds make a great topping on your toast and can be added with the filling in any sandwich.
 
 **Salad Dressing:** Add hemp seeds to your salad dressing, either blended in a processor or whole.
 
