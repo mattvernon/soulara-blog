@@ -1,8 +1,7 @@
 ---
-title: The Power of Hemp Seeds
+title: 'Hemp Seeds: The Superfood Fairy Dust'
 date: 2018-12-04 12:08:00 +11:00
-published: false
-Main Image: "/uploads/hemp-seeds_MG_3048-RT-224a99.jpg"
+Main Image: "/uploads/hemp-seeds_MG_3048-RT-b60a82.jpg"
 ---
 
 Hemps seeds may be small but they are the superfood fairydust you should be sprinkling on everything from breakfast to dessert. Hemp foods have only recently been legalised for consumption in Australia so it has never been easier to get your hands on some hemp-protein goodness.
@@ -35,7 +34,7 @@ Hemp has a very low burning point so it is best consumed raw. You can eat them a
 
 **On your fruit salad or muesli:** In fact, sprinkle them on any type of brekkie or snack.
 
-**On toast or in your sandwich: **Hemp seeds make a great topping on your toast and can be added with the filling in any sandwich.
+**On toast or in your sandwich:** Hemp seeds make a great topping on your toast and can be added with the filling in any sandwich.
 
 **Salad Dressing:** Add hemp seeds to your salad dressing, either blended in a processor or whole.
 
