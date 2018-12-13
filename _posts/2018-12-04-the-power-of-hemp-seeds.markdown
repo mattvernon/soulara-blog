@@ -1,7 +1,7 @@
 ---
 title: The Power of Hemp Seeds
 date: 2018-12-04 12:08:00 +11:00
-Main Image: "/uploads/_MG_3048.jpg"
+Main Image: "/uploads/hemp-seeds_MG_3048-RT.jpg"
 ---
 
 Hemps seeds may be small but they are the superfood fairydust you should be sprinkling on everything from breakfast to dessert. Hemp foods have only recently been legalised for consumption in Australia so it has never been easier to get your hands on some hemp-protein goodness.
