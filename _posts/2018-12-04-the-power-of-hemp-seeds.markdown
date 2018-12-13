@@ -1,5 +1,5 @@
 ---
-title: The Power of Hemp Seeds
+title: 'Hemp Seeds: The Superfood Fairy Dust'
 date: 2018-12-04 12:08:00 +11:00
 Main Image: "/uploads/hemp-seeds_MG_3048-RT.jpg"
 ---
