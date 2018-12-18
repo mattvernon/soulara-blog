@@ -8,7 +8,7 @@ tags:
 - stress
 - health
 - mental health
-Main Image: "/uploads/walnut-3072681_1920.jpg"
+Main Image: "/uploads/walnuts.jpeg"
 ---
 
 ***We were lucky enough to sit down with neuroscientist Dr Amy Reichelt to chat about all things brain-health.***
@@ -67,7 +67,7 @@ Alcohol works in the brain by increasing the effects of inhibitory neurotransmit
 
 Eat a healthy balanced diet, move your body, stress less and surround yourself with good people.
 
-![IMG_6604-Edit HIGH RES_PRINT-2.jpeg](/uploads/IMG_6604-Edit%20HIGH%20RES_PRINT-2.jpeg)
+![IMG_6580-Edit HIGH RES_PRINT.jpg](/uploads/IMG_6580-Edit%20HIGH%20RES_PRINT.jpg)
 
 Dr Amy Reichelt can be found at [amyreichelt.com](http://amyreichelt.com/)
 
