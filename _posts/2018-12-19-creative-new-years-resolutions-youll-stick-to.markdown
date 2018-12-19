@@ -11,14 +11,7 @@ Humans are social creatures. We like to move in packs and we rely on others for 
 \
 Taking yourself out on a solo date day can be inspiring and nourishing for your soul. Whether you go to the art gallery, go for a solo swim in the ocean, go to the movies, or sit and write in a cafe, your alone time should be treated as sacred and something you should try to do weekly or monthly. \
 \
-**Rules:** Date must be minimum of 2 hours. You must go on your own and not meet anyone there. No phones allowed. \
-\
-**2.** **Fail more**\
-Nobody sets out wanting to fail… and yet we all do in one way or another, and how we deal with failure says more about who we are than success do. So often, we avoid failure by not taking risks, because it’s better to live in a grey area than know you failed, right?! Actually no, failure is essential for growth and without failure, we don’t know who we really are or what we really want. \
-\
-J.K. Rowling said, in her speech to Harvard graduates “...failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than what I was, and began to direct all my energy into finishing the only work that mattered to me.”\
-\
-In 2019, take more risks, allow yourself to fail more and develop a strong foundation for your future successes.
+**Rules:** Date must be minimum of 2 hours. You must go on your own and not meet anyone there. No phones allowed. 
 
 \
 **2.** **Fail more**\
