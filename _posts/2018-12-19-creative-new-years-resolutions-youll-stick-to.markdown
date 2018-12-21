@@ -1,7 +1,7 @@
 ---
 title: Creative New Year's Resolutions You'll Stick To
 date: 2018-12-19 10:55:00 +11:00
-published: false
+Main Image: "/uploads/newyear.jpg"
 ---
 
 There must be a place where all the abandoned new year’s resolutions go to. We’re saying no more to the “I’ll give up coffee” and “No dessert” resolutions that fade away by the second week of January. In 2019 we’re here to help you pick creative resolutions that you’ll love and *want* to keep.\
@@ -68,10 +68,13 @@ As the saying goes, you should learn something new every day. But to expand on t
 \
 When life follows a daily routine, it’s easy to get stuck in a rut. One way to avoid feeling stagnated is to learn something new. This can be as big as going back to school or as simple as learning how to crochet from watching Youtube tutorials.\
 \
-Here are some ideas to expand your skill set:\
-\*\*- Crochet or knitting: \*\*working with your hands can be very cathartic. Crocheting and knitting are skills that are useful, portable and more fun than you might think. You can crochet on your commute to work, and give all your creations as gifts to your friends and family. Think of how cute your dog will look in his winter sweater. \
-**- Jam-making:** Making jam is a great skill to have. Not only are you creating delicious spreads but it’s a great way to get rid of leftover fruits from the holidays. You can even play around with making them sugar-free by adding stevia instead. \
-- **Musical Instrument:** Have you ever wanted to learn how to play piano or flute or even the tuba? Let 2019 be your year to learn how to read music and play the instrument of your dreams. \
+Here are some ideas to expand your skill set:
+
+**Crochet or knitting: **working with your hands can be very cathartic. Crocheting and knitting are skills that are useful, portable and more fun than you might think. You can crochet on your commute to work, and give all your creations as gifts to your friends and family. Think of how cute your dog will look in his winter sweater. 
+
+**Jam-making:** Making jam is a great skill to have. Not only are you creating delicious spreads but it’s a great way to get rid of leftover fruits from the holidays. You can even play around with making them sugar-free by adding stevia instead. 
+
+**Musical Instrument:** Have you ever wanted to learn how to play piano or flute or even the tuba? Let 2019 be your year to learn how to read music and play the instrument of your dreams. \
 \
 **8. Start a spiritual practice**\
 A spiritual practice can be simple and easy. It doesn’t have to be ceremonial and complicated. The purpose of a spiritual practice is to have a ritual to ground your day.\
