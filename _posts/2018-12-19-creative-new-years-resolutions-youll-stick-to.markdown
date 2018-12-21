@@ -60,7 +60,7 @@ Here are some side hustle ideas for inspiration:
 
 * Becoming a yoga teacher
 
-* Starting an event/charity\\
+* Starting an event/charity
 
 **7. Learn a new skill**
 
@@ -71,14 +71,14 @@ When life follows a daily routine, it’s easy to get stuck in a rut. One way to
 Here are some ideas to expand your skill set:\
 \*\*- Crochet or knitting: \*\*working with your hands can be very cathartic. Crocheting and knitting are skills that are useful, portable and more fun than you might think. You can crochet on your commute to work, and give all your creations as gifts to your friends and family. Think of how cute your dog will look in his winter sweater. \
 **- Jam-making:** Making jam is a great skill to have. Not only are you creating delicious spreads but it’s a great way to get rid of leftover fruits from the holidays. You can even play around with making them sugar-free by adding stevia instead. \
-\*\*- Musical Instrument: \*\*Have you ever wanted to learn how to play piano or flute or even the tuba? Let 2019 be your year to learn how to read music and play the instrument of your dreams. \
+- **Musical Instrument:** Have you ever wanted to learn how to play piano or flute or even the tuba? Let 2019 be your year to learn how to read music and play the instrument of your dreams. \
 \
 **8. Start a spiritual practice**\
 A spiritual practice can be simple and easy. It doesn’t have to be ceremonial and complicated. The purpose of a spiritual practice is to have a ritual to ground your day.\
 \
 It can be a simple as meditating for 15 minutes a day, journaling before sunrise, or even making a cup of tea with intention every afternoon. Keep it simple, do it every day and soon you won’t be able to live without it. \
 \
-9\. **Bullet Journaling**\
+**9.** **Bullet Journaling**\
 Being organised is something that most people start the year intending to do, and it slowly disappears into a world of chaos by February. One way to stay on top of everything in your work and personal life is to start bullet journaling. \
 \
 Bullet journaling has taken the stationery-loving world by storm in recent years, converting people with almost religious conviction. The idea behind the bullet journaling is keep your points, simple and clear. All you need is a notebook and a pen and you’re ready to go. There is a process to it and you can learn how to do it, [here](https://bulletjournal.com/pages/learn). \
