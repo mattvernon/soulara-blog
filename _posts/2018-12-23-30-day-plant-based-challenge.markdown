@@ -1,12 +1,12 @@
 ---
 title: 30 day plant-based challenge
 date: 2018-12-23 18:15:00 +11:00
-published: false
+Main Image: "/uploads/hermes-rivera-258743-unsplash.jpg"
 ---
 
 If you’ve been considering going plant-based, now is the perfect time. We’re running a **30 day plant-based challenge** to give your body a chance to reap all the benefits of living a plant-powered lifestyle. Plant-powered doesn’t just mean vegan. Vegan refers to no-animal products which means you could live off potato chips and muesli bars and still be vegan. Whereas, plant-based means no animal products, but also no processed foods. Processed foods are full of empty calories, with very little to no nutritional value, and yet they make up a huge part of the average Aussie’s diet.
 
-By going plant-powered, you are choosing to eat whole foods, and give your body the foods it needs for optimised health and wellness. 
+By going plant-powered, you are choosing to eat whole foods, and give your body the foods it needs for optimised health and wellness.
 
 So what are the benefits?
 
@@ -25,6 +25,4 @@ Getting a “food coma” after a big meal isn’t a normal reaction, it’s a b
 **[Good for you, good for the planet](https://www.onegreenplanet.org/environment/how-eating-more-plant-based-foods-benefits-the-environment/)**\
 Plant-based diets are sustainable and support ecosystems rather than destroy them. By switching to a plant-based diet you are reducing your carbon footprint, protecting the lives and wellbeing of animals, and saving forests from deforestation. A plant-powered lifestyle is eating and living as nature intended.
 
-**If they aren’t the best reasons to give our 30-day challenge a go, we don’t know what is! The challenge start 1st January and finishes on 30th January. Keep us up to date with your progress, how you’re feeling and any benefits you experience - and don’t forget to use #livesoulara in your posts. If you need a head start or some help on what to eat, we’re giving you $20 OFF your first Soulara box with the coupon code**\
-**\
-**
+**If they aren’t the best reasons to give our 30-day challenge a go, we don’t know what is! The challenge start 1st January and finishes on 30th January. Keep us up to date with your progress, how you’re feeling and any benefits you experience - and don’t forget to use #livesoulara in your posts. If you need a head start or some help on what to eat, we’re giving you $20 OFF your first Soulara box with the coupon code SOULNEW25.**
