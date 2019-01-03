@@ -24,7 +24,7 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 **Juice: **Freshly squeezed juices are bursting with vitamins and minerals. By switching your morning coffee for a energising juice, you are giving your liver a rest whilst still having enough energy to get through the day. If you don’t have a juicer or don’t have time, check out our selection of fresh juices with your next Soulara order!
 
-**Tea: **There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
+**Tea:** There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
 
 **Smoothies:** Always a great way to get your fibre, omegas, and protein in one drink. Throw in some banana, cacao, hemp seeds, chia seeds, LSA, a few dates and splash on some almond milk - blend and enjoy!
 
@@ -38,7 +38,7 @@ Here are some tips to help you get the sleep you need.
 
 **Meditate:** Stilling your mind before bed is a sure way to turn off brain chatter and mental noise. You can do a short 15 minute mantra-based meditation or even a guided meditation from YouTube (just listen to the audio). By meditating before you sleep you are inducing a level of relaxation which will send you off to dreamland fast that you can say  OMMMM...
 
-**Read: **Reading before bed is great distraction from wanting to reach for your phone and it also quietens your mind from the stresses of the day. A chapter into a good book and you will have forgotten what you overheard Veronica say about you in the lunchroom, which would have normally kept you tossing and turning in aggravation all night.
+**Read:** Reading before bed is great distraction from wanting to reach for your phone and it also quietens your mind from the stresses of the day. A chapter into a good book and you will have forgotten what you overheard Veronica say about you in the lunchroom, which would have normally kept you tossing and turning in aggravation all night.
 
 **Tea time:** Drinking a sleepy time tea before bed helps your body and mind relax without any conscious effort. Herbs such as passionflower, valerian, chamomile and lavender make a great sleepy tea blend that will have you reaching for your PJ’s before your show has even finished.
 
