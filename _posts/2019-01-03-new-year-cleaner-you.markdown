@@ -38,7 +38,7 @@ Ahhh! There is nothing like your head hitting the pillow after a long and tiring
 
 **Read: **Reading before bed is great distraction from wanting to reach for your phone and it also quietens your mind from the stresses of the day. A chapter into a good book and you will have forgotten what you overheard Veronica say about you in the lunchroom, which would have normally kept you tossing and turning in aggravation all night.
 
-**Tea time:** Drinking a sleepy time tea before bed helps your body and mind relax without any conscious effort. Herbs such as passionflower, valerian, chamomile and lavender make a great sleepy tea blend that will have you reaching for your PJ’s before your show has even finished.\\
+**Tea time:** Drinking a sleepy time tea before bed helps your body and mind relax without any conscious effort. Herbs such as passionflower, valerian, chamomile and lavender make a great sleepy tea blend that will have you reaching for your PJ’s before your show has even finished.
 
 ## Detox your pits
 
@@ -52,7 +52,7 @@ Detoxing your pits is something you can do at home with 3 simple ingredients:
 
 * Water
 
-Mix the three ingredients together to form a creamy paste, spread on a generous amount onto clean armpits and leave for 10 minutes. Then rinse in with warm water (easiest in the shower).\\
+Mix the three ingredients together to form a creamy paste, spread on a generous amount onto clean armpits and leave for 10 minutes. Then rinse in with warm water (easiest in the shower).
 
 ## Detox your skin
 
