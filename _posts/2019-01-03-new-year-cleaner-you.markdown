@@ -14,7 +14,7 @@ Here at Soulara, we are all about using food as medicine. We believe that by mak
 
 **Detox foods:** The best way to help detox your body from toxin build up is by eating foods that are rich in prebiotic fibre and cleansing nutrients. Foods such as garlic, walnuts, cruciferous vegetables, cranberries, blueberries, apples and fermented foods such as sauerkraut are all excellent choices for detoxing your way to feeling great.
 
-**Say bye Felicia to sugar: **Your body will never be able to detox if your sugar intake is high. Sugar disrupts your body’s optimal function, right down to a cellular level. By reducing or even eliminating your sugar intake you are giving your cells and organs a rest from the damage control they have to do when you eat refined sugar. Natural sugars from fruit and vegetables give you all the sugars you need in your diet.
+**Say bye Felicia to sugar:** Your body will never be able to detox if your sugar intake is high. Sugar disrupts your body’s optimal function, right down to a cellular level. By reducing or even eliminating your sugar intake you are giving your cells and organs a rest from the damage control they have to do when you eat refined sugar. Natural sugars from fruit and vegetables give you all the sugars you need in your diet.
 
 **Take probiotics:** The supplement we always highly recommend is a probiotic. Probiotics help balance the bacteria in your gut. Not just for after a dosage of antibiotics, but also from everyday wear and tear. With what we eat, there is a lot of bad bacteria that grows in the fertile soil of your gut. This bacteria can cause a lot of illness and imbalance in the body. A probiotic aims to balance the bad bacteria with good bacteria, check out your local health food store to find which probiotic is best for you.
 
@@ -32,7 +32,7 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 Ahhh! There is nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. Here are some tips to help you get the sleep you need:
 
-**No phone before bed: **It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
+**No phone before bed:** It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
 
 **Meditate:** Stilling your mind before bed is a sure way to turn off brain chatter and mental noise. You can do a short 15 minute mantra-based meditation or even a guided meditation from YouTube (just listen to the audio). By meditating before you sleep you are inducing a level of relaxation which will send you off to dreamland fast that you can say  OHM...
 
@@ -58,7 +58,7 @@ Mix the three ingredients together to form a creamy paste, spread on a generous 
 
 Your biggest organ and yet it is often an afterthought when it comes to detox. Detoxing your skin can be a result from eating well and staying super hydrated but there is a way to detox your skin from the outside, in.
 
-Create your own toner: Toning your skin with harsh over-the-counter toners can strip or irritate your skin. Creating your own detoxing toner at home is easy. With one part apple cider vinegar and one part water, wipe over your skin after cleansing to feel fresh and deeply toned.
+**Create your own toner:** Toning your skin with harsh over-the-counter toners can strip or irritate your skin. Creating your own detoxing toner at home is easy. With one part apple cider vinegar and one part water, wipe over your skin after cleansing to feel fresh and deeply toned.
 
 **Go coconuts:** At night, after toning, moisturise your face with a thin layer of coconut oil and allow all the enzymes to heal and nourish your skin while you sleep.
 
