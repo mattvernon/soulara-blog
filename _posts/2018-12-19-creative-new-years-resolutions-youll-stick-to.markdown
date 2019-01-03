@@ -1,7 +1,7 @@
 ---
 title: Creative New Year's Resolutions You'll Stick To
 date: 2018-12-19 10:55:00 +11:00
-Main Image: "/uploads/newyear.jpg"
+Main Image: "/uploads/happynewyear.jpg"
 ---
 
 There must be a place where all the abandoned new year’s resolutions go to. We’re saying no more to the “I’ll give up coffee” and “No dessert” resolutions that fade away by the second week of January. In 2019 we’re here to help you pick creative resolutions that you’ll love and *want* to keep.
