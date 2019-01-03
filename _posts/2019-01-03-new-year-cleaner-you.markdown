@@ -4,7 +4,7 @@ date: 2019-01-03 11:12:00 +11:00
 published: false
 ---
 
-After the holiday season, it’s rather common to not feel our best. With all the festive celebrations, we can be left feeling depleted and undernourished. A detox is the answer to getting you back on track, but not all detoxes are the same. There are a lot of detoxes that promote teas and shakes that flush out your system, often flushing out the good with the bad and sending your body into a state of shock. Other detoxes promote fasting and juicing for a certain number of days, but this too has its own side effects.
+After the holiday season, it’s normal to not feel our best. With all the festive celebrations, we can be left feeling depleted and undernourished. A detox is the answer to getting you back on track, but not all detoxes are the same. There are a lot of detoxes that promote teas and shakes that flush out your system, often flushing out the good with the bad and sending your body into a state of shock. Other detoxes promote fasting and juicing for a certain number of days, but this too has its own side effects.
 
 The best way to detox your body, is to keep eating and drinking but making cleaner choices that can have a huge impact on your health and wellbeing.
 
