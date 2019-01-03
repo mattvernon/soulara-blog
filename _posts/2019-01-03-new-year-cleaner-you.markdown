@@ -34,7 +34,7 @@ Ahhh! There is nothing like your head hitting the pillow after a long and tiring
 
 **No phone before bed:** It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
 
-**Meditate:** Stilling your mind before bed is a sure way to turn off brain chatter and mental noise. You can do a short 15 minute mantra-based meditation or even a guided meditation from YouTube (just listen to the audio). By meditating before you sleep you are inducing a level of relaxation which will send you off to dreamland fast that you can say  OHM...
+**Meditate:** Stilling your mind before bed is a sure way to turn off brain chatter and mental noise. You can do a short 15 minute mantra-based meditation or even a guided meditation from YouTube (just listen to the audio). By meditating before you sleep you are inducing a level of relaxation which will send you off to dreamland fast that you can say  OMMMM...
 
 **Read: **Reading before bed is great distraction from wanting to reach for your phone and it also quietens your mind from the stresses of the day. A chapter into a good book and you will have forgotten what you overheard Veronica say about you in the lunchroom, which would have normally kept you tossing and turning in aggravation all night.
 
