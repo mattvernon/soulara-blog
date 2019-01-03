@@ -1,7 +1,7 @@
 ---
 title: Positive Vibes - Your Hidden Superpower
 date: 2018-12-22 16:25:00 +11:00
-Main Image: "/uploads/happynewyear.jpg"
+Main Image: "/uploads/Gratefulness.jpg"
 ---
 
 Positive Vibes feels like an Insta-worthy t-shirt slogan you’d see at a music festival. It’s used loosely, without meaning, and most people don’t actually think about what it means to take on a positive approach to life. It could quite happily stay as a hashtag, but we wanted to take a closer look at how positive vibes could actually change your life
