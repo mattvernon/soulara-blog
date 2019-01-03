@@ -22,7 +22,7 @@ Here at Soulara, we are all about using food as medicine. We believe that by mak
 
 We all know the importance of staying hydrated, but there is more to hydration that just drinking. What else should you be drinking after your 8 glasses of H2O?
 
-**Juice: **Freshly squeezed juices are bursting with vitamins and minerals. By switching your morning coffee for a energising juice, you are giving your liver a rest whilst still having enough energy to get through the day. If you don’t have a juicer or don’t have time, check out our selection of fresh juices with your next Soulara order!
+**Juice:** Freshly squeezed juices are bursting with vitamins and minerals. By switching your morning coffee for a energising juice, you are giving your liver a rest whilst still having enough energy to get through the day. If you don’t have a juicer or don’t have time, check out our selection of fresh juices with your next Soulara order!
 
 **Tea:** There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
 
