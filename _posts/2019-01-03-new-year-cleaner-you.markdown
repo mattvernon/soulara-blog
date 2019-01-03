@@ -24,15 +24,15 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 **Juice: **Freshly squeezed juices are bursting with vitamins and minerals. By switching your morning coffee for a energising juice, you are giving your liver a rest whilst still having enough energy to get through the day. If you don’t have a juicer or don’t have time, check out our selection of fresh juices with your next Soulara order!
 
-\*\*Tea: \*\*There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
+**Tea: **There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
 
-**Smoothies:** Always a great way to get your fibre, omegas, and protein in one drink. Throw in some banana, cacao, hemp seeds, chia seeds, LSA, a few dates and splash on some almond milk - blend and enjoy!\\
+**Smoothies:** Always a great way to get your fibre, omegas, and protein in one drink. Throw in some banana, cacao, hemp seeds, chia seeds, LSA, a few dates and splash on some almond milk - blend and enjoy!
 
 ## Catch some Z’s
 
 Ahhh! There is nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. Here are some tips to help you get the sleep you need:
 
-\*\*No phone before bed: \*\*It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
+\*\*No phone before bed: It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
 
 \*\*Meditate: \*\*Stilling your mind before bed is a sure way to turn off brain chatter and mental noise. You can do a short 15 minute mantra-based meditation or even a guided meditation from YouTube (just listen to the audio). By meditating before you sleep you are inducing a level of relaxation which will send you off to dreamland fast that you can say  OHM...
 
