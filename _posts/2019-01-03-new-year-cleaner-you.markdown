@@ -30,7 +30,7 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 ## Catch some Z’s
 
-Ahhh! There is nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. \
+Ahhh! There's nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness you need for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. \
 \
 Here are some tips to help you get the sleep you need.
 
