@@ -30,7 +30,8 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 ## Catch some Z’s
 
-Ahhh! There is nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. Here are some tips to help you get the sleep you need:
+Ahhh! There is nothing like your head hitting the pillow after a long and tiring day. Getting enough sleep gives you the foundation of wellness for the day, but many of us have trouble either falling or staying asleep which can affect not only our energy levels but also our mental health. \
+Here are some tips to help you get the sleep you need.
 
 **No phone before bed:** It’s safe to say that an alarming number of us use our phones in bed, right up until we go to sleep but research out of Harvard University suggests that looking at screens before bed (including backlit ereaders) can dramatically affect your sleep, and your melatonin levels. Try not using your phone for 1-2 hours before bed for 2 weeks and see how it impacts your sleep and wellbeing.
 
