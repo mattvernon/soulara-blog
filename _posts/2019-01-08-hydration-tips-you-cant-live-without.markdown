@@ -52,4 +52,6 @@ Be it on your desk if you work in an office space, or in your canvas bag if youâ
 
 Invest in a pretty or funky reusable water bottle so that youâ€™re taking care of the environment at the same time, and not absorbing anything weird from all the plastic.
 
-Still thirsty? Get more food-for-thought on hydration here:
+**Still thirsty? Find more food-for-thought on hydration here:**
+* [Salt Decoded: Why eating more salt could change your life for the better](https://blog.soulara.com.au/blog/why-eating-more-salt-could-change-your-life-for-the-better/)
+* [Should you be drinking coffee?](https://blog.soulara.com.au/blog/should-you-be-drinking-coffee/) 
