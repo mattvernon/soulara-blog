@@ -1,5 +1,5 @@
 ---
-title: Hydration Tips You Can't Live Without
+title: Hydration tips you can't live without
 date: 2019-01-08 19:15:00 +11:00
 Main Image: "/uploads/julia-zolotova-784840-unsplash%20(1).jpg"
 ---
