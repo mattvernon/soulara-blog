@@ -12,11 +12,11 @@ The best way to detox your body, is to make cleaner choices that can have a huge
 
 Here at Soulara, we are all about using food as medicine. We believe that by making smart choices with what you eat, you can heal and nourish your body without having to take endless supplements and vitamins.
 
-**Detox foods: **The best way to help detox your body from toxin build up is by eating foods that are rich in prebiotic fibre and cleansing nutrients. Foods such as garlic, walnuts, cruciferous vegetables, cranberries, blueberries, apples and fermented foods such as sauerkraut are all excellent choices for detoxing your way to feeling great.
+**Detox foods:** The best way to help detox your body from toxin build up is by eating foods that are rich in prebiotic fibre and cleansing nutrients. Foods such as garlic, walnuts, cruciferous vegetables, cranberries, blueberries, apples and fermented foods such as sauerkraut are all excellent choices for detoxing your way to feeling great.
 
 **Say bye Felicia to sugar:** Your body will never be able to detox if your sugar intake is high. Sugar disrupts your body’s optimal function, right down to a cellular level. By reducing or even eliminating your sugar intake you are giving your cells and organs a rest from the damage control they have to do when you eat refined sugar. Natural sugars from fruit and vegetables give you all the sugars you need in your diet.
 
-**Take probiotics: **The supplement we always highly recommend is a probiotic. Probiotics help balance the bacteria in your gut. Not just for after a dosage of antibiotics, but also from everyday wear and tear. With what we eat, there is a lot of bad bacteria that grows in the fertile soil of your gut. This bacteria can cause a lot of illness and imbalance in the body. A probiotic aims to balance the bad bacteria with good bacteria, check out your local health food store to find which probiotic is best for you.
+**Take probiotics:** The supplement we always highly recommend is a probiotic. Probiotics help balance the bacteria in your gut. Not just for after a dosage of antibiotics, but also from everyday wear and tear. With what we eat, there is a lot of bad bacteria that grows in the fertile soil of your gut. This bacteria can cause a lot of illness and imbalance in the body. A probiotic aims to balance the bad bacteria with good bacteria, check out your local health food store to find which probiotic is best for you.
 
 ## Highway to hydration
 
@@ -24,7 +24,7 @@ We all know the importance of staying hydrated, but there is more to hydration t
 
 **Juice:** Freshly squeezed juices are bursting with vitamins and minerals. By switching your morning coffee for a energising juice, you are giving your liver a rest whilst still having enough energy to get through the day. If you don’t have a juicer or don’t have time, check out our selection of fresh juices with your next Soulara order!
 
-**Tea: **There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
+**Tea:** There are plenty of detox teas out there, however most of them will have you running to the toilet more than you’d like. The kind of teas that we love here are Soulara are kind and nourishing. We don’t want to send your body into a state of urgent evacuation but rather gently cleanse toxins and help you feel great. Herbs such as nettle and dandelion make for great detox teas. Keep the tea, covered in the pot and steep for at least 5 minutes for optimal benefits.
 
 **Smoothies: **Always a great way to get your fibre, omegas, and protein in one drink. Throw in some banana, cacao, hemp seeds, chia seeds, LSA, a few dates and splash on some almond milk - blend and enjoy!
 
