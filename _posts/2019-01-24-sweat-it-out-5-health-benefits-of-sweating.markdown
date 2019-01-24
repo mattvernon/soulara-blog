@@ -1,7 +1,6 @@
 ---
 title: 'Sweat it out: 5 health benefits of sweating'
 date: 2019-01-24 14:43:00 +11:00
-published: false
 Main Image: "/uploads/mutzii-1057982-unsplash.jpg"
 ---
 
