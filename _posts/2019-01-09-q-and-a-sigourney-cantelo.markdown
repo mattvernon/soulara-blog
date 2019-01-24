@@ -5,7 +5,7 @@ published: false
 Main Image: "/uploads/Sigourney.jpg"
 ---
 
-Meet Sigourney, the founder and editor of [Beauticate.](http://beauticate.com/) a beauty-centric website dedicated to inspiring, educating and empowering women. As a former beauty editor at *Vogue*, and a journalist for over 16 years, she is an esteemed pillar within the Australian beauty industry.
+Meet Sigourney, the founder and editor of [Beauticate](http://beauticate.com/) a beauty-centric website dedicated to inspiring, educating and empowering women. As a former beauty editor at *Vogue*, and a journalist for over 16 years, she is an esteemed pillar within the Australian beauty industry.
 
 We sat down with Sigourney to chat about work, motherhood and of course, healthy living and balance.
 
