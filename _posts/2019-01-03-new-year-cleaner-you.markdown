@@ -1,6 +1,7 @@
 ---
 title: New Year, Cleaner You
 date: 2019-01-03 11:12:00 +11:00
+published: false
 Main Image: "/uploads/Soulara_12EDM_Heroimage_WEB-c04cda89831ea2db%20(1).jpg"
 ---
 
@@ -65,3 +66,5 @@ Your biggest organ and yet it is often an afterthought when it comes to detox. D
 **Go makeup free:** Although there are lots of “healthy” makeup brands out there nowadays, it is still best to go bare. We’re not saying you have to head into the office with a squeaky clean face but try to have one day a week without putting any makeup on. And remember to always take off your makeup before bed.
 
 Detoxing doesn’t have to be harsh or aggressive, it can be gentle and something that is safe to do regularly, or as needed. Choose to honour and respect your temple with a soothing detox that will leave you feeling brand new.
+
+## 
