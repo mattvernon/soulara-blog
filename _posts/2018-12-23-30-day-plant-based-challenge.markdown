@@ -1,7 +1,7 @@
 ---
 title: 30 day plant-based challenge
 date: 2018-12-23 18:15:00 +11:00
-Main Image: "/uploads/hermes-rivera-258743-unsplash.jpg"
+Main Image: "/uploads/Soulara_EDM_bottombanner_WEB.jpg"
 ---
 
 If you’ve been considering going plant-based, now is the perfect time. We’re running a **30 day plant-based challenge** to give your body a chance to reap all the benefits of living a plant-powered lifestyle. Plant-powered doesn’t just mean vegan. Vegan refers to no-animal products which means you could live off potato chips and muesli bars and still be vegan. Whereas, plant-based means no animal products, but also no processed foods. Processed foods are full of empty calories, with very little to no nutritional value, and yet they make up a huge part of the average Aussie’s diet.
