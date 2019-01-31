@@ -36,7 +36,10 @@ With an air temperature of around 90 to 105 degrees Celsius, a conventional saun
 
 The temperature of an infrared sauna is much more tolerable - about 40 to 60 degrees Celsius. Rather than heating the skin, the infrared band of light safely penetrates about 3 to 4 cm beneath the skin’s surface, reaching and heating the deeper organs and tissues (without any harmful UV rays).
 
-However or whenever you sweat, it’s so important to rehydrate your body to keep it feeling its best. Learn how to hydrate right with our:
+However or whenever you sweat, it’s so important to rehydrate your body to keep it feeling its best. 
+
+**Learn how to hydrate right with our:**
 
 [Hydration tips you can’t live without](https://blog.soulara.com.au/blog/hydration-tips-you-cant-live-without/)
+
 [Salt Decoded post](https://blog.soulara.com.au/blog/why-eating-more-salt-could-change-your-life-for-the-better/)
