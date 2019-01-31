@@ -30,7 +30,7 @@ Sweating increases your heart rate - part of the reason why cardiovascular exerc
 
 Fun fact: seeing that the skin is the body’s first line of defence, it’s handy that sweat contains ‘dermcidin’ - a natural antibiotic that helps ward off bacteria in the environment that you don’t want getting into your body, like E. coli from contaminated food or water.
 
-**What’s the difference between a conventional sauna and an infrared sauna**
+**What’s the difference between a conventional sauna and an infrared sauna?**
 
 With an air temperature of around 90 to 105 degrees Celsius, a conventional sauna encourages sweat via extreme heat. This is felt by the skin and respiratory system, to a degree that some people may find it difficult to breathe.
 
