@@ -41,5 +41,4 @@ However or whenever you sweat, it’s so important to rehydrate your body to kee
 **Learn how to hydrate right with our:**
 
 [Hydration tips you can’t live without](https://blog.soulara.com.au/blog/hydration-tips-you-cant-live-without/)
-
 [Salt Decoded post](https://blog.soulara.com.au/blog/why-eating-more-salt-could-change-your-life-for-the-better/)
