@@ -1,7 +1,7 @@
 ---
 title: Top 10 Foods To Increase Your Vitality
 date: 2019-02-15 19:12:00 +11:00
-Main Image: "/uploads/rawpixel-746015-unsplash-10cc30.jpg"
+Main Image: "/uploads/52647529_817728415230155_5089927680489422848_n.jpg"
 ---
 
 Offering a rainbow of health-promoting nutrients, plant-based wholefoods can have you taking on the day with a renewed vigour - physically and mentally - all while giving you your glow back.
