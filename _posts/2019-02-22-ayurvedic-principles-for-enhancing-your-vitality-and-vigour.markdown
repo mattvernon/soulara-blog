@@ -1,7 +1,7 @@
 ---
 title: Ayurvedic principles for enhancing your vitality and vigour
 date: 2019-02-22 18:31:00 +11:00
-Main Image: "/uploads/photo-1506126613408-eca07ce68773.jpeg"
+Main Image: "/uploads/ayurveda.jpg"
 ---
 
 A holistic ancient Indian healing practice, integrating Ayurveda or Ayurvedic principles into your day can make a world of difference to your energy levels - physically and mentally, all while uplifting your soul and enhancing your wellbeing.
