@@ -1,5 +1,5 @@
 ---
-title: 'How to improve your bone health: our nutrition & lifestyle tips'
+title: 'How to boost your bone health: nutrition & lifestyle tips'
 date: 2019-02-28 19:48:00 +11:00
 Main Image: "/uploads/bones.jpg"
 ---
