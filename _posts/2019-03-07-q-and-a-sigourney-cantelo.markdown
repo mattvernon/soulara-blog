@@ -64,4 +64,10 @@ If I can somehow make even a few women feel more confident through some tip they
 
 We’re relaunching the site with a new design and some incredible new features around curating and shopping for beauty. Lots of exciting things happening in the next month or two so watch this space!
 
-Join our community and be inspired! [Sign up ](https://www.soulara.com.au/)to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
+Read about more incredible women who are making a difference here:
+
+[Q&A with Lee Holmes From Supercharged Food](https://blog.soulara.com.au/blog/q-and-a-lee-holmes/)
+
+[Q&A with Jessica Sepel From JS Health](https://blog.soulara.com.au/blog/q-and-a-jessica-sepel/)
+
+Plus, join our community and be inspired! [Sign up ](https://www.soulara.com.au/)to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
