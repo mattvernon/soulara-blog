@@ -59,7 +59,7 @@ Staying hydrated is another easy way to look after your gut health. The simple t
 
 **What are some your favourite foods to nourish your gut?**
 
-Root vegetables, like parsnips, carrots and sweet potatoes are naturally gluten-free, rich in prebiotic fibre and provide a whole load of nutrients. Plus, they have a low glycaemic index which means they won’t induce inflammation or digestive issues. I love roasting root veggies in the oven and using them to make thicker and heartier soups. The pre-biotic fibres in these vegetables help to maintain a healthy community of bacteria in the gut and can ease digestion.
+Root vegetables, like parsnips, carrots and sweet potatoes are naturally gluten-free, rich in prebiotic fibre and provide a whole load of nutrients. Plus, they have a low glycemic index which means they won’t induce inflammation or digestive issues. I love roasting root veggies in the oven and using them to make thicker and heartier soups. The pre-biotic fibres in these vegetables help to maintain a healthy community of bacteria in the gut and can ease digestion.
 
 Including more ginger, in your diet is a powerful ally for supercharging your gut and contains additional anti-inflammatory and anti-bacterial compounds which block inflammation-producing genes, keeping your tummy happy, healthy and inflammation-free.
 
