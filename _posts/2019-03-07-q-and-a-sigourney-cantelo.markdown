@@ -1,6 +1,6 @@
 ---
 title: 'Q&A: Sigourney Cantelo'
-date: 2019-01-09 16:31:00 +11:00
+date: 2019-03-07 16:31:00 +11:00
 Main Image: "/uploads/Sigourney4.jpg"
 ---
 
