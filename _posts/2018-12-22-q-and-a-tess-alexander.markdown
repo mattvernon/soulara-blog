@@ -1,5 +1,5 @@
 ---
-title: Q&A Tess Alexander
+title: 'Q&A: Tess Alexander'
 date: 2018-12-22 12:30:00 +11:00
 Main Image: "/uploads/tess2.JPG"
 ---
