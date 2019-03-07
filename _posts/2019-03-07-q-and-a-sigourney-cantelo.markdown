@@ -70,4 +70,4 @@ Read about more incredible women who are making a difference here:
 
 [Q&A with Jessica Sepel From JS Health](https://blog.soulara.com.au/blog/q-and-a-jessica-sepel/)
 
-Plus, join our community and be inspired! [Sign up ](https://www.soulara.com.au/)to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
+Join our community and be inspired! [Sign up ](https://www.soulara.com.au/)to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
