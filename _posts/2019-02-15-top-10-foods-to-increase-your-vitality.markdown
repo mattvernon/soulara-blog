@@ -1,5 +1,5 @@
 ---
-title: Top 10 Foods To Increase Your Vitality
+title: Top 10 foods to increase your vitality
 date: 2019-02-15 19:12:00 +11:00
 Main Image: "/uploads/52647529_817728415230155_5089927680489422848_n.jpg"
 ---
