@@ -1,11 +1,10 @@
 ---
 title: 'Q&A: Sigourney Cantelo'
 date: 2019-01-09 16:31:00 +11:00
-published: false
-Main Image: "/uploads/Sigourney.jpg"
+Main Image: "/uploads/Sigourney4.jpg"
 ---
 
-Meet Sigourney, the founder and editor of [Beauticate](http://beauticate.com/) a beauty-centric website dedicated to inspiring, educating and empowering women. As a former beauty editor at *Vogue*, and a journalist for over 16 years, she is an esteemed pillar within the Australian beauty industry.
+Meet Sigourney, the founder and editor of [Beauticate ](http://beauticate.com/), a beauty-centric website dedicated to inspiring, educating and empowering women. As a former beauty editor at *Vogue*, and a journalist for over 16 years, she is an esteemed pillar within the Australian beauty industry.
 
 We sat down with Sigourney to chat about work, motherhood and of course, healthy living and balance.
 
@@ -27,7 +26,7 @@ Finding that elusive balance – when you’re feeling rested and energetic, nou
 
 **What is your food philosophy?**
 
-I LOVE food. I’m usually thinking about my next meal! Although I do indulge pretty freely when I’m out (pizza, pasta and Mexican foods are my vices) to counterbalance it at home, I try to eat as many veg and superfoods as possible. It’s the 80/20 rule and it mostly works. Sometimes it edges more towards 70/30 or 60/40 but I will try and get back on the straight and narrow as soon as I can with some salad, bone broth soups, veggie curries with mushroom powders and supplement-loaded smoothies.
+I LOVE food. I’m usually thinking about my next meal! Although I do indulge pretty freely when I’m out (pizza, pasta and Mexican foods are my vices) to counterbalance it at home, I try to eat as many veg and superfoods as possible. It’s the 80/20 rule and it mostly works. Sometimes it edges more towards 70/30 or 60/40 but I will try and get back on the straight and narrow as soon as I can with some salad, veggie curries with mushroom powders and supplement-loaded smoothies.
 
 **Your style exudes classic glamour, how do you manage to look so chic whilst running an empire and being a hands-on Mum? What’s the one thing anybody can do to look effortlessly chic, no matter what you’re wearing?**
 
@@ -64,3 +63,5 @@ If I can somehow make even a few women feel more confident through some tip they
 **What do you have in store for 2019?**
 
 We’re relaunching the site with a new design and some incredible new features around curating and shopping for beauty. Lots of exciting things happening in the next month or two so watch this space!
+
+Join our community and be inspired! [Sign up ](https://www.soulara.com.au/)to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
