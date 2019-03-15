@@ -1,6 +1,7 @@
 ---
 title: How to sleep your way to enhanced vitality
 date: 2019-03-15 16:18:00 +11:00
+Main Image: "/uploads/georgiarosehardy.png"
 ---
 
 If you want to feel your best, quality shut-eye is as important as a wholesome diet and moving your body each day...something you’ll be very aware of if unhealthy sleep habits have crept up on you. 
