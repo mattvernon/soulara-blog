@@ -35,4 +35,3 @@ If you’re an afternoon coffee drinker, switch your latte for something just as
 
 Getting your blood flowing during the day will help set your body up for rest. Movement also encourages the release of ‘feel-good’ endorphins, reducing any stress, anger or anxiety that you’re holding onto - and which might be getting in the way of those sweet dreams.
 
-
