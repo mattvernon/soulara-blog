@@ -27,7 +27,7 @@ One that encourages your body and mind to wind down. Work towards making a habit
 
 This floral herbal tea is rich in the antioxidant apigenin, which can bring on feelings of sleepiness. We’ll drink to that! 
 
-**5. Be conscious of coffee **
+**5. Be conscious of coffee**
 
 If you’re an afternoon coffee drinker, switch your latte for something just as yummy that won’t leave you feeling wired. Dandelion tea makes a delicious coffee alternative, or try one of our uplifting Kombuchas. 
 
