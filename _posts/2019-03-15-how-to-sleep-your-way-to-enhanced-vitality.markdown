@@ -26,7 +26,7 @@ This floral herbal tea is rich in the antioxidant apigenin, which can bring on f
 **5. Be conscious of coffee **
 If you’re an afternoon coffee drinker, switch your latte for something just as yummy that won’t leave you feeling wired. Dandelion tea makes a delicious coffee alternative, or try one of our uplifting Kombuchas. 
 
-**6. Remember to exercise**
+## **6. Remember to exercise**
 Getting your blood flowing during the day will help set your body up for rest. Movement also encourages the release of ‘feel-good’ endorphins, reducing any stress, anger or anxiety that you’re holding onto - and which might be getting in the way of those sweet dreams.
 
 
