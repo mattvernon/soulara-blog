@@ -7,7 +7,7 @@ If you want to feel your best, quality shut-eye is as important as a wholesome d
 
 Rejuvenate your body and mind with our top tips for improving your sleep quality. 
 
-Eat some cherries 
+### Eat some cherries 
 They’re naturally rich in the sleep hormone melatonin. If you’ve been struggling to fall asleep at night, try a handful of cherries, or some cherry juice from the health food store a couple of hours before bed. 
 
 Dimming the lights in the lead up to bedtime can also enhance the brain’s production of melatonin. 
