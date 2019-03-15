@@ -36,4 +36,8 @@ If you’re an afternoon coffee drinker, switch your latte for something just as
 
 Getting your blood flowing during the day will help set your body up for rest. Movement also encourages the release of ‘feel-good’ endorphins, reducing any stress, anger or anxiety that you’re holding onto - and which might be getting in the way of those sweet dreams.
 
+**Want more vitality-boosting tips? Find them here:**
+[Ayurvedic principle for enhancing your vitality and vigour](https://blog.soulara.com.au/blog/ayurvedic-principles-for-enhancing-your-vitality-and-vigour/)
+[Top 10 foods for increasing your vitality](https://blog.soulara.com.au/blog/top-10-foods-to-increase-your-vitality/)
+
 Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
