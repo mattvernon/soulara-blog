@@ -23,7 +23,7 @@ Why not give yourself a smart device ‘curfew’, putting your phone away for t
 
 One that encourages your body and mind to wind down. Work towards making a habit of doing something every night (or most nights) of the week that helps quieten your mind. That might be curling up with a book, having a hot bath, meditating, or doing some restorative yoga - like lying with your legs up the wall for 10 minutes to calm your nervous system...try it!
 
-**4. Sip chamomile tea **
+**4. Sip chamomile tea**
 
 This floral herbal tea is rich in the antioxidant apigenin, which can bring on feelings of sleepiness. We’ll drink to that! 
 
