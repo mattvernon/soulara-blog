@@ -1,6 +1,8 @@
 ---
 title: How to sleep your way to enhanced vitality
 date: 2019-03-15 16:18:00 +11:00
+categories:
+- Lifestyle
 Main Image: "/uploads/sleepvitalityimage.jpg"
 ---
 
