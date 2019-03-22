@@ -3,7 +3,7 @@ title: How to look after your body in the cooler months
 date: 2019-03-22 16:49:00 +11:00
 categories:
 - Health
-Main Image: "/uploads/How%20to%20look%20after%20yourself%20in%20the%20cooler%20months.jpg"
+Main Image: "/uploads/How%20to%20look%20after%20yourself%20in%20the%20colder%20months.jpg"
 ---
 
 What works for your body in the warmer months might not have the same effect as the temperature drops. Ease into autumn and transition into winter with our tips for supporting your health and wellbeing while it’s chilly out. 
