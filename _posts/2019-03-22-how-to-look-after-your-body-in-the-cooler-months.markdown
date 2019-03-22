@@ -1,6 +1,9 @@
 ---
 title: How to look after your body in the cooler months
 date: 2019-03-22 16:49:00 +11:00
+categories:
+- Health
+Main Image: "/uploads/How%20to%20look%20after%20yourself%20in%20the%20cooler%20months.jpg"
 ---
 
 What works for your body in the warmer months might not have the same effect as the temperature drops. Ease into autumn and transition into winter with our tips for supporting your health and wellbeing while it’s chilly out. 
@@ -29,4 +32,5 @@ Your body might be trying to tell you something when it shivers after an iced gl
 
 A mug of warm water in the mornings can even help aid digestion and promote regular bowel movements. Sipping on herbal tea over the day is also a delicious and nourishing way to hydrated, and warm. 
 
-Join our community and be inspired! Sign up to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
+
+Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
