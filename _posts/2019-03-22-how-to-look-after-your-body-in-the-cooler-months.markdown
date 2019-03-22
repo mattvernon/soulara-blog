@@ -32,5 +32,4 @@ Your body might be trying to tell you something when it shivers after an iced gl
 
 A mug of warm water in the mornings can even help aid digestion and promote regular bowel movements. Sipping on herbal tea over the day is also a delicious and nourishing way to hydrated, and warm. 
 
-
 Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
