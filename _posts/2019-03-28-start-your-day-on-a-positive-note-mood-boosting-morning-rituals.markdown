@@ -6,3 +6,4 @@ categories:
 Main Image: "/uploads/Tips%20for%20starting%20your%20day%20right.jpg"
 ---
 
+make it 5! 
