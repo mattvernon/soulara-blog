@@ -1,5 +1,5 @@
 ---
-title: 'Start your day on a positive note: mood-boosting morning rituals'
+title: Our 5 favourite mood-boosting morning rituals
 date: 2019-03-28 11:30:00 +11:00
 categories:
 - Lifestyle
