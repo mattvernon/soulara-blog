@@ -36,7 +36,7 @@ Low blood sugar and a low mood can go hand-in-hand - so this is your gentle remi
 
 Carbohydrates are your brain’s preferred form of energy, so it’s worth including a quality plant-based carbohydrate source like fibre-rich oats or banana with your breakfast - along with some protein and wholesome fats for a balanced start to the day. 
 
-Try a Soulara Chia Pudding, a bowl of porridge mixed with berries and almond butter, or a smoothie with banana, almond milk, ground flaxseed and your favourite plant-based protein powder if you’re on the go. If you prefer savoury, try tahini and avo on some good quality grainy, sourdough or gluten free toast...delicious topped with tomato and cracked pepper.
+Try a Soulara Chia Pudding, porridge with berries and almond butter, or a smoothie with banana, almond milk, ground flaxseed and your favourite plant-based protein powder if you’re on the go. If you prefer savoury, try tahini and avo on some good quality grainy, sourdough or gluten free toast...delicious adorned with tomato and cracked pepper.
 
 **Listen to your favourite song **
 
