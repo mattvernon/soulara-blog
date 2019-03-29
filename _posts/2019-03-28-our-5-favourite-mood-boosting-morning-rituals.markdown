@@ -10,7 +10,7 @@ If shorter days and less sunlight tend to leave you feeling flat, why not start 
 
 Your body will feel the benefits too, because everything is connected. 
 
-**Make yourself a cuppa **
+**Make yourself a cuppa**
 
 Because positivi-tea! From boiling and brewing to stirring and sipping, making tea can serve as your very own at-home mindfulness ritual. 
 
@@ -20,7 +20,7 @@ We love green and black tea because they give you some caffeine - but in a gentl
 
 Simply writing down two or three things you’d like to achieve over the course of the day ahead will set the tone for the day - and help make it a positive and more fulfilling one. This can be especially helpful if you’re feeling overwhelmed about all the tasks on your to-do list. 
 
-** Try a mindful walk **
+**Try a mindful walk**
 
 Whether it’s around the corner or along the beach (whatever you have time for!), anything from a stroll to a brisk walk in the fresh air will get your blood flowing and those feel-good endorphins flowing. While you’re at it, why not try this mindful walking exercise: look around you and acknowledge: 
 
