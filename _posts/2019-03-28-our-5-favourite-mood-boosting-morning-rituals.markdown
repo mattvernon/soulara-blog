@@ -6,7 +6,7 @@ categories:
 Main Image: "/uploads/Tips%20for%20starting%20your%20day%20right.jpg"
 ---
 
-If shorter days and less sunlight tend to leave you feeling flat, why not start your day with some of our favourite mood-boosting morning rituals? 
+If shorter days and less sunlight tend to leave you feeling flat, why not start your day with some of our go-to mood-boosting morning rituals? 
 
 Your body will feel the benefits too, because everything is connected. 
 
