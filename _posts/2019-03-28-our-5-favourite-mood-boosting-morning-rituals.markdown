@@ -38,6 +38,6 @@ Carbohydrates are your brain’s preferred form of energy, so it’s worth inclu
 
 Try a Soulara Chia Pudding, porridge with berries and almond butter, or a smoothie with banana, almond milk, ground flaxseed and your favourite plant-based protein powder if you’re on the go. If you prefer savoury, try tahini and avo on some good quality grainy, sourdough or gluten free toast...delicious adorned with tomato and cracked pepper.
 
-**Listen to your favourite song **
+**Listen to your favourite song**
 
 This might be the easiest way to lift your mood while you’re getting ready in the morning or on your commute. Why not put together a list of your favourite feel-good songs to have on the ready for beginning your day on a fresh, positive note? 
