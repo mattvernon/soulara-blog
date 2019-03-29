@@ -41,3 +41,5 @@ Try a Soulara Chia Pudding, porridge with berries and almond butter, or a smooth
 **Listen to your favourite song**
 
 This might be the easiest way to lift your mood while you’re getting ready in the morning or on your commute. Why not put together a list of your favourite feel-good songs to have on the ready for beginning your day on a fresh, positive note? 
+
+Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
