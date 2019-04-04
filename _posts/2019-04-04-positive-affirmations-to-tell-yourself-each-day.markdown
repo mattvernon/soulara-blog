@@ -6,6 +6,12 @@ categories:
 Main Image: "/uploads/Positive%20affirmations.jpg"
 ---
 
+Our thoughts hold more power over us than we realise. As Buddha once said, *“We are shaped by our thoughts; we become what we think.”*
+
+Experience how rephrasing your inner dialogue can shift your mindset with our favourite positive affirmations. Find the ones that resonate with you - as everyone, and every day is different.
+
+To make your daily affirmations more meaningful, we’ve included a couple of affirmations with some blanks that you can fill in - personalise and change them as you wish.\
+
 ***“This is a wonderful day. I have never seen this before.”***
 
 *“Nourishing myself is a joyful experience, and I am worth the time spent on my healing.” - Louise Hay*
