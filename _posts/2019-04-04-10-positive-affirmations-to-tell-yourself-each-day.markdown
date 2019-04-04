@@ -21,15 +21,14 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“I use my time helping others to ________.”*
 
-> “The universe has my back.” - Gabrielle Bernstein 
+> “The universe has my back.” Gabrielle Bernstein 
 
-**“I take brisk walks in the sunshine to invigorate my body and soul.”
-Louise Hay ****
+*“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
 
-*“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.” *
+****“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”****
 
-**“Everything passes if you learn to hold things lightly.” - Oprah** 
+*“Everything passes if you learn to hold things lightly.” - Oprah*
 
-*“Energy flows where my attention and intention goes.” - Gabrielle Bernstein* 
+***“Energy flows where my attention and intention goes.” - Gabrielle Bernstein***
 
-**“Today I am grateful that I am able to ________.”****
+*“Today I am grateful that I am able to ________.”*
