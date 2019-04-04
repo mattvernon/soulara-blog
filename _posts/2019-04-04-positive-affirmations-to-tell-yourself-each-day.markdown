@@ -1,5 +1,5 @@
 ---
-title: Positive affirmations to tell yourself each day
+title: 10 positive affirmations to tell yourself each day
 date: 2019-04-04 13:23:00 +11:00
 categories:
 - Health
