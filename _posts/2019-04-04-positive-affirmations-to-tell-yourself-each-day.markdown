@@ -33,5 +33,3 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 *“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”*
 
 ***“Today I am grateful that I am able to ____."***
-
-Join our community and be inspired![ Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
