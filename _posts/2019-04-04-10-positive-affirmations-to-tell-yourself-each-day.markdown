@@ -13,27 +13,23 @@ Experience how rephrasing your inner dialogue can shift your mindset with our fa
 
 To make your daily affirmations more meaningful, we’ve included a couple of affirmations with some blanks that you can fill in - personalise and change them as you wish. 
 
-**“This is a wonderful day. I have never seen this before.” - Maya Angelou**
+***“This is a wonderful day. I have never seen this before.” - Maya Angelou***
 
-“Nourishing myself is a joyful experience, and I am worth the time spent on my healing.”
-Louise Hay
+*“Nourishing myself is a joyful experience, and I am worth the time spent on my healing.” - Louise Hay*
 
-“Every experience is an opportunity for growth.”
+***“Every experience is an opportunity for growth.”***
 
-“I use my time helping others to ________.”
+*“I use my time helping others to ________.”*
 
-“The universe has my back.”
-Gabrielle Bernstein 
+> “The universe has my back.” - Gabrielle Bernstein 
 
-“I take brisk walks in the sunshine to invigorate my body and soul.”
-Louise Hay 
+**“I take brisk walks in the sunshine to invigorate my body and soul.”
+Louise Hay ****
 
-“Energy flows where my attention and intention goes.” 
-Gabrielle Bernstein 
+*“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.” *
 
-“Everything passes if you learn to hold things lightly.”
-Oprah 
+**“Everything passes if you learn to hold things lightly.” - Oprah** 
 
-“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.” 
+*“Energy flows where my attention and intention goes.” - Gabrielle Bernstein* 
 
-“Today I am grateful that I am able to ________.”
+**“Today I am grateful that I am able to ________.”****
