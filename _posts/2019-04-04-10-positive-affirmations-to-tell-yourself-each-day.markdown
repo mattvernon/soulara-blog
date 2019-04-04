@@ -3,6 +3,7 @@ title: 10 positive affirmations to tell yourself each day
 date: 2019-04-04 12:17:00 +11:00
 categories:
 - Health
+Main Image: "/uploads/Positive%20affirmations.jpg"
 ---
 
 Our thoughts hold more power over us than we realise. 
@@ -25,7 +26,7 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
 
-***“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”***
+***“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”***![Positive affirmations.jpg](/uploads/Positive%20affirmations.jpg)
 
 *“Everything passes if you learn to hold things lightly.” - Oprah*
 
