@@ -22,7 +22,8 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“I use my time helping others to ________.”*
 
-> “The universe has my back.” Gabrielle Bernstein 
+> “The universe has my back.” 
+Gabrielle Bernstein
 
 *“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
 
