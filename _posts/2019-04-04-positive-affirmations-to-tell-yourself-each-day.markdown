@@ -32,4 +32,4 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“Today I am grateful that I am able to ________.”*
 
-Join our community and be inspired! Sign up to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
+Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
