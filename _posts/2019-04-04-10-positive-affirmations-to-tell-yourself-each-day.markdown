@@ -25,7 +25,7 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
 
-****“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”****
+***“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”***
 
 *“Everything passes if you learn to hold things lightly.” - Oprah*
 
