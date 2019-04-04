@@ -13,8 +13,7 @@ Experience how rephrasing your inner dialogue can shift your mindset with our fa
 
 To make your daily affirmations more meaningful, we’ve included a couple of affirmations with some blanks that you can fill in - personalise and change them as you wish. 
 
-> “This is a wonderful day. I have never seen this before.”
-Maya Angelou
+**“This is a wonderful day. I have never seen this before.” - Maya Angelou**
 
 “Nourishing myself is a joyful experience, and I am worth the time spent on my healing.”
 Louise Hay
