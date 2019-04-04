@@ -10,9 +10,9 @@ Our thoughts hold more power over us than we realise. As Buddha once said, *“W
 
 Experience how rephrasing your inner dialogue can shift your mindset with our favourite positive affirmations. Find the ones that resonate with you - as everyone, and every day is different.
 
-To make your daily affirmations more meaningful, we’ve included a couple of affirmations with some blanks that you can fill in - personalise and change them as you wish.\
+To make your daily affirmations more meaningful, we’ve included a couple of affirmations with some blanks that you can fill in - personalise and change them as you wish.
 
-***“This is a wonderful day. I have never seen this before.”***
+***“This is a wonderful day. I have never seen this before.” - Maya Angelou ***
 
 *“Nourishing myself is a joyful experience, and I am worth the time spent on my healing.” - Louise Hay*
 
@@ -24,7 +24,7 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 *“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
 
-***“Everything passes if you learn to hold things lightly.”***
+***“Everything passes if you learn to hold things lightly.” - Oprah***
 
 *“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”*
 
