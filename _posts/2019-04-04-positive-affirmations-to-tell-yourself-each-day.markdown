@@ -22,13 +22,16 @@ To make your daily affirmations more meaningful, we’ve included a couple of af
 
 > "The universe has my back." - Gabrielle Bernstein
 
-*“I use my time helping others to ____.”
-*
+“I use my time helping others to ____.”
 
-***“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay***
+* 
 
-*“I take brisk walks in the sunshine to invigorate my body and soul.” - Louise Hay*
+*“Everything passes if you learn to hold things lightly.” - Oprah*
 
-***“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”***
+***“Energy flows where my attention and intention goes.” - Gabrielle Bernstein***
 
-Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
+*“I will talk to myself in the same way I talk to someone I love. I will look after myself like I would look after a loved one.”*
+
+***“Today I am grateful that I am able to ____."***
+
+Join our community and be inspired![ Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.
