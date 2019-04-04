@@ -10,7 +10,7 @@ Main Image: "/uploads/Positive%20affirmations.jpg"
 
 *“Nourishing myself is a joyful experience, and I am worth the time spent on my healing.” - Louise Hay*
 
-* **“Every experience is an opportunity for growth.”***
+***“Every experience is an opportunity for growth.”***
 
 *“I use my time helping others to ________.”*
 
