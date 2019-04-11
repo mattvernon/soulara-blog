@@ -3,6 +3,7 @@ title: 5 foods to enhance your mood, naturally
 date: 2019-04-11 13:30:00 +10:00
 categories:
 - Nutrition
+Main Image: "/uploads/Mood%20boosting%20foods-612101.jpg"
 ---
 
 Feeling down? Food plays a vital role in how you feel and has the ability to influence your outlook on life.
@@ -39,4 +40,4 @@ These are increasingly being touted as superfoods in the health sector, and for 
 
 The gut-brain connection has long been explored, with gut health directly impacting your mood. Incorporate fermented foods into your diet by starting the day off with coconut yogurt, fruit and granola, using tempeh in curries, and sipping on warming miso soup.
 
-*Join our community and be inspired! Sign up to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.*
+*Join our community and be inspired! [Sign up](https://www.soulara.com.au) to our newsletter for weekly advice, fun facts and info to support your plant-powered journey. We’ll share special offers and our new dishes with you too.*
