@@ -1,7 +1,7 @@
 ---
 title: Our head chef's guide to plant-based living
 date: 2019-04-17 19:09:00 +10:00
-Main Image: "/uploads/Kylie_vertical_cropped.JPG"
+Main Image: "/uploads/Kylie_vertical_siteleaf.jpg"
 ---
 
 She’s cool. She’s charismatic.
