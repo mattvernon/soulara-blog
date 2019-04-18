@@ -1,6 +1,8 @@
 ---
 title: Our head chef's guide to plant-based living
 date: 2019-04-17 19:09:00 +10:00
+categories:
+- Lifestyle
 Main Image: "/uploads/Kylie_vertical_siteleaf.jpg"
 ---
 
