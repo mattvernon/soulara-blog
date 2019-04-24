@@ -3,6 +3,7 @@ title: Top 5 adaptogens for mood & stress support
 date: 2019-04-24 16:28:00 +10:00
 categories:
 - Health
+Main Image: "/uploads/Adaptogens%20for%20mood%20and%20stress%20support.jpg"
 ---
 
 In the 21st century, sometimes meditation, mindful eating, and deep breathing just aren’t enough to reduce stress. We understand, and we’re here for you. Allow us to introduce our daily saviours – adaptogens.
