@@ -11,6 +11,7 @@ tags:
 - fermented food
 - mindful eating
 - ibs
+Main Image: "/uploads/Gut%20brain%20connection.jpg"
 ---
 
 Ever felt butterflies in your stomach when you were excited or nervous?
