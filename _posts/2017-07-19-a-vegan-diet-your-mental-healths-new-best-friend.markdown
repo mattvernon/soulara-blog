@@ -1,5 +1,5 @@
 ---
-title: 'A Vegan Diet: Your Mental Health''s New Best Friend'
+title: 'A Plant Based Diet: Your Mental Health''s New Best Friend'
 date: 2017-07-19 07:25:00 +10:00
 categories:
 - Lifestyle
