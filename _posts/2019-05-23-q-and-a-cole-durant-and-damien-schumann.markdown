@@ -44,7 +44,7 @@ I also got to play a tournament in South Africa which was very special as I was 
 
 ![Damien-2-Soulara-Ambassador.jpg](/uploads/Damien-2-Soulara-Ambassador.jpg)
 
-*                                                           Damien in action, fuelled by Soulara.*
+*                                                            Damien in action, fuelled by Soulara. *
 
 **What attracted you to beach volleyball?**
 
