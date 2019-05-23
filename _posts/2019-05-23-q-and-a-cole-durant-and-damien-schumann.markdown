@@ -26,7 +26,7 @@ We sat down with Team Durant/Schumann, who shared what inspired them to get to w
 
 ![Cole-Soulara-ambassador.jpg](/uploads/Cole-Soulara-ambassador.jpg)
 
-*                                                                           Cole living the Soulara life.*
+*                                                                       Cole living the Soulara life. *
 
 **What do you think the biggest misconception is about a plant-based diet?**
 
