@@ -1,6 +1,9 @@
 ---
 title: 'Q&A: Cole Durant & Damien Schumann'
 date: 2019-05-23 10:37:00 +10:00
+categories:
+- Lifestyle
+Main Image: "/uploads/Cole-and-Damien-Soulara-ambassadors.jpg"
 ---
 
 Meet pro beach volleyball players and Soulara ambassadors Cole Durant and Damien Schumann. With a Commonwealth Games Gold Medal (Damien) and Silver FIVB World Tour Medal between them (Cole), the athletic duo are aspiring to compete in the Tokyo 2020 Olympics - with some help from Soulara.
