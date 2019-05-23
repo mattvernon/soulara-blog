@@ -25,7 +25,7 @@ We sat down with Team Durant/Schumann, who shared what inspired them to get to w
 **Damien:** ...The health and physical performance benefits of having meat free days are obviously huge. Of course when we are travelling in some pretty remote parts of Asia and the world it’s not always possible. \[Also, other\] meal delivery services that...include meat as the focus of the dish are often so simple. Soulara meals can focus on being creative and have way more flavour than any other prepackaged meal could!
 
 ![Cole-Soulara-ambassador.jpg](/uploads/Cole-Soulara-ambassador.jpg)
-                                                                 *Cole living the Soulara life.*
+                                                             *Cole living the Soulara life.*
 
 **What do you think the biggest misconception is about a plant-based diet?**
 
@@ -42,8 +42,8 @@ I also got to play a tournament in South Africa which was very special as I was 
 **Damien:** Such a hard question! Gstaad in Switzerland would probably be my favourite!
 
 ![Damien-2-Soulara-Ambassador.jpg](/uploads/Damien-2-Soulara-Ambassador.jpg)
-                                                         
-*Damien in action, fuelled by Soulara.*
+
+*                                                             Damien in action, fuelled by Soulara.*
 
 **What attracted you to beach volleyball?**
 
