@@ -12,7 +12,7 @@ tags:
 Main Image: "/uploads/How%20to%20Feng%20Shui%20your%20home.jpg"
 ---
 
-The state of your living space can have a significant impact on your mindset. We tap into some ancient Chinese Feng Shui practices for creating positive chi (energy) in your environment – give some of them a try and a happier you might just follow.
+The state of your living space can have a significant impact on your mindset. We tap into some ancient Chinese Feng shui practices for creating positive chi (energy) in your environment – give some of them a try and a happier you might just follow.
 
 **Let there be light, and air**
 
@@ -34,9 +34,9 @@ On a more literal level, sleeping beneath a window may impair sleep quality – 
 
 **Consider colour**
 
-An aspect that falls under the five Feng Shui elements (Fire, Earth, Metal, Water, and Wood), colour has the potential to dictate the mood of your living space, and in turn, your own mood.
+An aspect that falls under the five Feng shui elements (Fire, Earth, Metal, Water, and Wood), colour has the potential to dictate the mood of your living space, and in turn, your own mood.
 
-To help you select a colour palette suited to where you’re at/what you need right now, here is a brief summary of each Feng Shui element, and the colours symbolising each.
+To help you select a colour palette suited to where you’re at/what you need right now, here is a brief summary of each Feng shui element, and the colours symbolising each.
 
 * **Fire:** relating to passion, energy and inner warmth. Think reds, pinks, oranges and yellows.
 
