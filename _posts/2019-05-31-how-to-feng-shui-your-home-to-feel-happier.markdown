@@ -42,11 +42,11 @@ To help you select a colour palette suited to where you’re at/what you need ri
 
 * **Earth:** the grounding element of calm and stability. Think earthy, beige and sandy tones.
 
-* **Metal: **relating to mental clarity, and symbolised through grey and white hues.
+* **Metal:** relating to mental clarity, and symbolised through grey and white hues.
 
-* **Water: **the element of ease, abundance and freshness, represented by blues and blacks.
+* **Water:** the element of ease, abundance and freshness, represented by blues and blacks.
 
-* **Wood: **symbolic of vitality, growth, and health and wellbeing, you can create more of the Wood element through a brown and green colour palette.
+* **Wood:** symbolic of vitality, growth, and health and wellbeing, you can create more of the Wood element through a brown and green colour palette.
 
 **Clear the clutter**
 
