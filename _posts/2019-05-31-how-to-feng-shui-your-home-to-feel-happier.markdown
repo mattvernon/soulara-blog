@@ -9,6 +9,7 @@ tags:
 - Feng Shui home
 - Feng Shui
 - Feng Shui tips
+Main Image: "/uploads/How%20to%20Feng%20Shui%20your%20home.jpg"
 ---
 
 The state of your living space can have a significant impact on your mindset. We tap into some ancient Chinese Feng Shui practices for creating positive chi (energy) in your environment – give some of them a try and a happier you might just follow.
