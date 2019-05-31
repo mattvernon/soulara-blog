@@ -1,5 +1,5 @@
 ---
-title: How to Feng Shui your home to feel happier
+title: How to Feng shui your home to feel happier
 date: 2019-05-31 11:09:00 +10:00
 categories:
 - Lifestyle
